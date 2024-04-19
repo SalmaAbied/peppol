@@ -54,6 +54,15 @@ const NavBar: React.FC = () => {
               <a href="/Ondernemers" className={`text-gray-300 ${isActive('/Ondernemers') ? 'text-legoOrange' : 'hover:text-legoOrange'} px-3 py-2 rounded-md text-sm font-medium uppercase transition duration-300 ease-in-out`}>{t('Home.Navbar.Ondernemers')}</a>
               <a href="/Contact" className={`text-gray-300 ${isActive('/Contact') ? 'text-legoOrange' : 'hover:text-legoOrange'} px-3 py-2 rounded-md text-sm font-medium uppercase transition duration-300 ease-in-out`}>{t('Home.Navbar.Contact')}</a>
               <a href="/Blog" className={`text-gray-300 ${isActive('/Blog') || location.pathname.includes('/Blog/') ? 'text-legoOrange' : 'hover:text-legoOrange'} px-3 py-2 rounded-md text-sm font-medium uppercase transition duration-300 ease-in-out`}>{t('Home.Navbar.Blog')}</a>
+              <Select>
+                <SelectTrigger className="w-[180px] text-white">
+                  <SelectValue placeholder="Theme" />
+                </SelectTrigger>
+                <SelectContent>
+                  <SelectItem value="nl" onClick={() => changeLanguage('nl')}>NL</SelectItem>
+                  <SelectItem value="fr" onClick={() => changeLanguage('fr')}>FR</SelectItem>
+                </SelectContent>
+              </Select>
               <select
                 className='bg-gray-800 text-white font-bold m-1 border border-gray-600 rounded px-2 py-1'
                 onChange={(e) => changeLanguage(e.target.value)}
@@ -105,6 +114,7 @@ const NavBar: React.FC = () => {
           <a href="/Ondernemers" className={`block text-gray-300 ${isActive('/Ondernemers') ? 'text-legoOrange' : 'hover:text-legoOrange'} px-3 py-2 rounded-md text-base font-medium transition duration-300 ease-in-out`}>{t('Home.Navbar.Ondernemers')}</a>
           <a href="/Contact" className={`block text-gray-300 ${isActive('/Contact') ? 'text-legoOrange' : 'hover:text-legoOrange'} px-3 py-2 rounded-md text-base font-medium transition duration-300 ease-in-out`}>{t('Home.Navbar.Contact')}</a>
           <a href="/Blog" className={`block text-gray-300 ${isActive('/Blog') || location.pathname.includes('/Blog/') ? 'text-legoOrange' : 'hover:text-legoOrange'} px-3 py-2 rounded-md text-base font-medium transition duration-300 ease-in-out`}>{t('Home.Navbar.Blog')}</a>
+          
           <select
             className='bg-gray-800 text-white font-bold m-1 border border-gray-600 rounded px-2 py-1'
             onChange={(e) => changeLanguage(e.target.value)}
