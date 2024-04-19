@@ -1,7 +1,7 @@
 import React, { useState } from 'react';
 import { Link } from 'react-router-dom';
 import Tabs from './Tabs';
-import { blogPost, categories } from "../Data/DataBlog";
+import { blogPost, categories } from "../data/DataBlog";
 import { ArrowLeft, ArrowRight } from 'lucide-react';
 import { useTranslation } from 'react-i18next';
 

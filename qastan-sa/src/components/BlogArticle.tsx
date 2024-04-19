@@ -1,7 +1,7 @@
 import React from 'react';
 import { ArrowLeft } from 'lucide-react';
 import { useTranslation } from 'react-i18next';
-import { blogPost } from '../Data/DataBlog';
+import { blogPost } from '../data/DataBlog';
 
 type Props = {
   blog?: Blogpost;
@@ -32,52 +32,7 @@ function BlogArticle({ blog }: Props) {
               </figure>
             </div>
           ))}
-{/*           
-          {blog?.articlePartOne && (
-            <div>
-              {blog.articlePartOne.title && <h4 className="font-semibold text-xl">{blog&&blogPostTranslations[blog.id][i18n.language].articlePartOne.title}</h4>}
-              <p className="text-base md:text-lg mb-4">{blog&&blogPostTranslations[blog.id][i18n.language].articlePartOne.content}</p>
-            </div>
-          )} */}
-          {/* {blog?.articlePartTwo && (
-            <div>
-              {blog.articlePartTwo.title && <h4 className="font-semibold text-xl">{blog&&blogPostTranslations[blog.id][i18n.language].articlePartTwo.title}</h4>}
-              <p className="text-base md:text-lg mb-4">{blog&&blogPostTranslations[blog.id][i18n.language].articlePartTwo.content}</p>
-            </div>
-          )} */}
-          {/* <figure className="relative my-10">
-            {blog&&blogPostTranslations[blog.id][i18n.language] && (blog.extraImg || blog.imageUrl) && (
-              <img className="w-full object-contain" src={blog&&blogPostTranslations[blog.id][i18n.language].extraImg || blog.imageUrl} alt={blog&&blogPostTranslations[blog.id][i18n.language].title} />
-            )}
-          </figure> */}
         </div>
-        {/* <div>
-          {blog&&blogPostTranslations[blog.id][i18n.language]?.articlePartThree && (
-              <div>
-                {blog&&blogPostTranslations[blog.id][i18n.language].articlePartThree.title && <h4 className="font-semibold text-xl">{blog&&blogPostTranslations[blog.id][i18n.language].articlePartThree.title}</h4>}
-                <p className="text-base md:text-lg mb-4">{blog&&blogPostTranslations[blog.id][i18n.language].articlePartThree.content}</p>
-              </div>
-            )}
-          <figure className="relative my-10">
-              {blog&&blogPostTranslations[blog.id][i18n.language] && (blog.extraImg || blog.imageUrl) && (
-                <img className="w-full object-contain" src={blog&&blogPostTranslations[blog.id][i18n.language].extraImg1 || blog.imageUrl} alt={blog&&blogPostTranslations[blog.id][i18n.language].title} />
-              )}
-          </figure>
-          {blog&&blogPostTranslations[blog.id][i18n.language]?.articlePartFour && (
-              <div>
-                {blog&&blogPostTranslations[blog.id][i18n.language].articlePartFour.title && <h3 className="font-semibold text-xl">{blog&&blogPostTranslations[blog.id][i18n.language].articlePartFour.title}</h3>}
-                <p className="text-base md:text-lg mb-4">{blog&&blogPostTranslations[blog.id][i18n.language].articlePartFour.content}</p>
-              </div>
-          )}
-
-          {blog&&blogPostTranslations[blog.id][i18n.language]?.articlePartFive && (
-              <div>
-                {blog&&blogPostTranslations[blog.id][i18n.language].articlePartFive.title && <h3 className="font-semibold text-xl">{blog&&blogPostTranslations[blog.id][i18n.language].articlePartFive.title}</h3>}
-                <p className="text-base md:text-lg mb-4">{blog&&blogPostTranslations[blog.id][i18n.language].articlePartFive.content}</p>
-              </div>
-          )}
-        </div> */}
-       
       </div>
       <div className='container mx-auto grid grid-cols-2'>
         <p className='italic'>

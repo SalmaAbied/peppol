@@ -4,7 +4,7 @@ import HeaderDetail from './HeaderDetail';
 // import { blogPosts } from '../Data/DataBlog';
 import BlogDetailIntro from './BlogDetailIntro';
 import BlogArticle from './BlogArticle';
-import { blogPost } from '../Data/DataBlog';
+import { blogPost } from '../data/DataBlog';
 
 function BlogDetail() {
     const { id } = useParams<{ id: string }>();

@@ -1,6 +1,6 @@
 import React from 'react';
 import { useTranslation } from 'react-i18next';
-import { blogPost } from '../Data/DataBlog';
+import { blogPost } from '../data/DataBlog';
 
 type Props = {
   blog?: Blogpost;
