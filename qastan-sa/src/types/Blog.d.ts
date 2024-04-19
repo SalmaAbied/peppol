@@ -1,45 +1,3 @@
-// interface BlogPost {
-//   id: string;
-//   date: string;
-//   title: string;
-//   subtitle: string;
-//   articleTitle: string;
-//   articlePartOne: {
-//     title?: string; 
-//     content: string;
-//   };
-//   articlePartTwo?: {
-//     title?: string;
-//     content: string;
-//   };
-//   articlePartThree?: {
-//     title?: string; 
-//     content: string;
-//   };
-//   articlePartFour?: {
-//     title?: string; 
-//     content: string;
-//   };
-//   articlePartFive?: {
-//     title?: string; 
-//     content: string;
-//   };
-//   category: string;
-//   imageUrl: string;
-//   extraImg?: string;
-//   extraImg1?: string;
-// }
-
-interface TranslatedBlogPost {
-  nl: BlogPost;
-  fr: BlogPost;
-}
-
-interface BlogItemProps {
-  post: BlogPost;
-}
-
-// Contact pagina accordion
 interface ItemProps {
   answerID: string;
   questionID: string;
@@ -50,32 +8,6 @@ interface ItemProps {
   ariaExpanded: boolean;
   backgroundColor?: string;
 }
-
-// Blog Article
-// interface BlogPost {
-//   [blogId:string]: TransObject
-// }
-
-// interface TransObject {
-//   [lang:string]: LangTrans;
-//   imageUrl?: string
-// }
-
-// interface LangTrans {
-//   date: string;
-//   title: string;
-//   subtitle: string;
-//   [key:string]: any
-// }
-
-
-
-
-
-
-
-
-// =======================
 
 type Language = 'nl' | 'fr'
 
@@ -98,7 +30,7 @@ interface BlogpostContent {
 interface Paragraph {
   title:    string;
   content:  string;
-  image_id: number;
+  image_id?: number;
 }
 
 interface Images {
