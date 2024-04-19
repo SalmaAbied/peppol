@@ -1,0 +1,290 @@
+{
+  "Home": {
+    "Navbar": {
+      "Boekhouders": "Boekhouders",
+      "Ondernemers": "Ondernemers",
+      "Contact": "Contact",
+      "Blog": "Blog"
+    },
+    "Hero": {
+      "Title": "Vereenvoudig uw facturatie met",
+      "Subtitle": "Ontdek hoe Peppol uw bedrijf kan helpen bij het efficiënt verzenden en ontvangen van elektronische facturen, terwijl u voldoet aan de nieuwe wetgeving.",
+      "Registreer": "Registreer nu"
+    },
+    "Intro": {
+      "Title": "Wat is Peppol?",
+      "Subtitle": "Peppol laat toe om op een gestructureerde manier elektronische documenten, zoals facturen, te versturen. Het is een veilig netwerk dat toelaat om e-facturen of e-invoices uit te wisselen met iedereen die geregistreerd is op dit netwerk. Peppol (Pan-European Public Procurement Online) wordt in België voor elke onderneming verplicht vanaf 1 januari 2026.",
+      "Video": "50ENqLtqFEM"
+    },
+    "More": {
+      "Subtitle": "Leer over Peppol",
+      "Title": "Ontdek Peppol",
+      "CardTitleB": "Boekhouders",
+      "CardSubtitleB": "Ontdek Peppol voor professionals in de financiële sector",
+      "CardButtonB": "Voor boekhouders",
+      "CardTitleO": "Ondernemers",
+      "CardSubtitleO": "Voor ondernemers die op zoek zijn naar zakelijke groeikansen",
+      "CardButtonO": "Voor ondernemers",
+      "CardTitleBlog": "Blog",
+      "CardSubtitleBlog": "Lees de laatste artikelen en inzichten over Peppol",
+      "CardButtonBlog": "Ontdek onze blog"
+    },
+    "Cards": {
+      "Title": "Wat zijn de voordelen van",
+      "CardTitle1": "Veiligheid",
+      "CardText1": "Sterke nadruk op veiligheid en gegevensbescherming. Versleutelde communicatie en identiteitsverificatie voorkomen factuurfraude. Audit-trails houden alle transacties bij.",
+      "CardTitle2": "Standaardisatie",
+      "CardText2": "Bevordert standaardisatie in e-factureringsprocessen. Vereenvoudigt het uitwisselen van elektronische documenten.",
+      "CardTitle3": "Automatisering",
+      "CardText3": "Automatiseert het facturatieproces, vermindert handmatige handelingen en fouten, versnelt de verwerkingstijd en koppelt betalingen direct aan facturen.",
+      "CardTitle4": "Eenvoudigheid",
+      "CardText4": "UBL-standaard e-facturen worden automatisch correct uitgelezen, waardoor handmatige invoer overbodig is."
+    },
+    "Banner": {
+      "Badge": "Vanaf 2026",
+      "Title": "Peppol wordt <strong>verplicht</strong> vanaf 1 januari 2026",
+      "Introduction": "Vanaf 1 januari 2026 wordt Peppol verplicht voor alle bedrijven in België, zowel voor B2B (business-to-business) als B2G (business-to-government) facturatie. Deze verplichting is een belangrijke stap in de digitalisering van facturatieprocessen en is bedoeld om de efficiëntie te verbeteren en fraude te verminderen.",
+      "Title1": "Wat betekent dit voor uw bedrijf?",
+      "Paraghraphe1": "Door nu al actie te ondernemen en uw bedrijf aan te sluiten op het Peppol-netwerk, kunt u zich voorbereiden op deze verandering en ervoor zorgen dat uw facturatieprocessen naadloos blijven verlopen. Bovendien kan vroegtijdige adoptie van Peppol uw bedrijf een concurrentievoordeel geven en u helpen om te voldoen aan de steeds strenger wordende regelgeving op het gebied van facturatie en gegevensbescherming.",
+      "Title2": "Waarom kiezen voor Peppol?",
+      "Paraghraphe2": "Peppol biedt niet alleen efficiëntie en nauwkeurigheid in facturatieprocessen, maar het stelt uw bedrijf ook in staat om zich voor te bereiden op toekomstige veranderingen in de facturatielandschap. Door vandaag de overstap naar Peppol te maken, kunt u uw bedrijf positioneren voor groei en concurrentievoordeel op lange termijn.",
+      "Title3": "Profiteer van Peppol vandaag nog!",
+      "Paraghraphe3": "Bij Peppol begrijpen we dat deze veranderingen ingrijpend kunnen zijn, daarom staan we klaar om u te begeleiden bij de implementatie van Peppol in uw bedrijf. Ons team van experts kan u adviseren en ondersteunen bij elke stap van het proces, zodat u klaar bent voor de toekomst van facturatie. Wacht niet tot het te laat is. Neem vandaag nog contact met ons op en laat ons u helpen bij de overstap naar Peppol.",
+      "ReadMore": "Lees meer",
+      "ReadLess": "Toon minder"
+    },
+    "Footer": {
+      "Title": "Pagina's",
+      "Boekhouders": "Boekhouders",
+      "Ondernemers": "Ondernemers",
+      "Contact": "Contact",
+      "Blog": "Blog",
+      "Voorwaarden": "Algemene voorwaarden"
+    }
+  },
+  "Boekhouders": {
+    "Header": {
+      "Title": "Transformeer uw boekhoudpraktijk met Peppol",
+      "Subtitle": "Verbeterde facturatieprocessen voor optimaal boekhoudgemak"
+    },
+    "StepByStepB": {
+      "Title": "Boekhouders en accountants",
+      "Subtitle": "Peppol voor",
+      "Title2": "Hoe Peppol werkt voor boekhoudkantoren en accountants",
+      "Subtitle2": "Peppol biedt boekhoudkantoren en accountants een gestroomlijnde en efficiënte oplossing voor het beheren van elektronische facturatie. Hier zijn enkele specifieke manieren waarop boekhoudkantoren en accountants Peppol kunnen gebruiken:",
+      "CardTitle1": "Verzenden en ontvangen van e-facturen",
+      "CardSubtitle1": "Boekhoudkantoren kunnen eenvoudig e-facturen verzenden naar hun klanten en deze ook ontvangen van leveranciers via het Peppol-netwerk. Dit vermindert de afhankelijkheid van papieren facturen en verhoogt de snelheid en nauwkeurigheid van het facturatieproces.",
+      "CardTitle2": "Integratie met bestaande boekhoudsoftware",
+      "CardSubtitle2": "Peppol kan naadloos geïntegreerd worden met bestaande boekhoudsoftware die boekhoudkantoren en accountants gebruiken. Dit maakt het gemakkelijk om Peppol te integreren in de bestaande workflows en processen, waardoor de overgang soepel verloopt zonder onderbreking van de dagelijkse activiteiten.",
+      "CardTitle3": "Automatisering van facturatieprocessen",
+      "CardSubtitle3": "Door Peppol te gebruiken, kunnen boekhoudkantoren en accountants hun facturatieprocessen automatiseren. Dit omvat het genereren, verzenden, ontvangen en verwerken van facturen, waardoor handmatige taken worden verminderd en fouten worden geminimaliseerd.",
+      "CardTitle4": "Verhoogde efficiëntie en kostenbesparing",
+      "CardSubtitle4": "Het gebruik van Peppol resulteert in een verhoogde efficiëntie voor boekhoudkantoren en accountants, waardoor ze tijd en middelen kunnen besparen. Dit kan leiden tot aanzienlijke kostenbesparingen op lange termijn en een verbeterde service voor hun klanten."
+    },
+    "Cards": {
+      "Title": "Wat zijn de voordelen voor<br/> <strong>boekhoudkantoren en accountants</strong>",
+      "CardTitle1": "Efficiëntieverbeteringen",
+      "CardText1": "Peppol vermindert handmatige processen door elektronische facturen direct te verzenden, waardoor bedrijven tijd besparen op het verwerken van papierwerk en gegevensinvoer.",
+      "CardTitle2": "Tijdsbesparing",
+      "CardText2": "Met Peppol kunnen boekhoudkantoren en accountants aanzienlijk tijd besparen door het automatiseren van facturatieprocessen, waardoor ze meer tijd hebben voor andere taken.",
+      "CardTitle3": "Nauwkeurigheid",
+      "CardText3": "Peppol draagt bij aan een hogere nauwkeurigheid door het verminderen van menselijke fouten bij handmatige invoer, wat leidt tot betrouwbare facturatieprocessen.",
+      "CardTitle4": "Klanttevredenheid",
+      "CardText4": "Het gebruik van Peppol zorgt voor snellere en nauwkeurigere facturatieprocessen, wat resulteert in een verbeterde klanttevredenheid dankzij een efficiënte service."
+    },
+    "Cases": {
+      "Title": "Cases en succesverhalen",
+      "Subtitle": "Ontdek hoe boekhouders en accountants Peppol hebben omarmd: Casestudy's en Succesverhalen",
+      "CaseTitle1": "Case 1",
+      "CaseName1": "Bedrijfsnaam",
+      "CaseBeroordeling1": "Lorem ipsum",
+      "CaseTitle2": "Case 2",
+      "CaseName2": "Bedrijfsnaam",
+      "CaseBeroordeling2": "Lorem ipsum"
+    },
+    "Cta": {
+      "Title": "Ontdek hoe Peppol uw boekhoudpraktijk kan optimaliseren.",
+      "Button": "Boek een afspraak"
+    }
+  },
+  "Ondernemers": {
+    "Header": {
+      "Title": "Peppol: Jouw weg naar efficiënt factureren",
+      "Subtitle": "Ontdek de voordelen voor jouw onderneming"
+    },
+    "StepByStepB": {
+      "Title": "Ondernemingen",
+      "Subtitle": "Peppol voor",
+      "Title2": "Hoe Peppol werkt voor ondernemingen",
+      "Subtitle2": "Peppol biedt ondernemingen een gestroomlijnde oplossing voor het beheren van hun facturatieprocessen en het uitwisselen van elektronische documenten. Hier zijn enkele specifieke manieren waarop ondernemingen Peppol kunnen gebruiken:",
+      "CardTitle1": "Verzenden en ontvangen van e-facturen",
+      "CardSubtitle1": "Ondernemingen kunnen eenvoudig e-facturen verzenden naar hun klanten en deze ook ontvangen van hun leveranciers via het Peppol-netwerk. Dit elimineert de behoefte aan papieren facturen en versnelt het facturatieproces.",
+      "CardTitle2": "Integratie met bestaande systemen",
+      "CardSubtitle2": "Peppol kan naadloos worden geïntegreerd met bestaande systemen en software die ondernemingen gebruiken voor hun facturatieprocessen. Dit maakt het gemakkelijk om Peppol te implementeren zonder grote verstoringen in de bestaande workflows.",
+      "CardTitle3": "Standaardisatie van processen",
+      "CardSubtitle3": "Peppol bevordert de standaardisatie van facturatieprocessen door het gebruik van gemeenschappelijke standaarden voor e-facturatie. Hierdoor kunnen ondernemingen eenvoudig elektronische documenten uitwisselen met hun handelspartners, ongeacht de gebruikte software of systemen.",
+      "CardTitle4": "Veiligheid en betrouwbaarheid",
+      "CardSubtitle4": "Het Peppol-netwerk biedt een veilige en betrouwbare omgeving voor het uitwisselen van elektronische documenten. Alle communicatie binnen het netwerk is versleuteld, waardoor de privacy en veiligheid van de gegevens van ondernemingen wordt gewaarborgd."
+    },
+    "Cards": {
+      "Title": "Wat zijn de voordelen voor<br/> <strong>ondernemers</strong>",
+      "CardTitle1": "Efficiëntieverbeteringen",
+      "CardText1": "Peppol automatiseert het facturatieproces, vermindert handmatige taken en versnelt de verwerkingstijd.",
+      "CardTitle2": "Kostenbesparingen",
+      "CardText2": "Peppol vermindert administratieve lasten en minimaliseert fouten, wat resulteert in aanzienlijke kostenbesparingen.",
+      "CardTitle3": "Betrouwbaarheid",
+      "CardText3": "Met Peppol hebben bedrijven een betrouwbare en gestandaardiseerde facturatieomgeving, wat zorgt voor nauwkeurige transacties en sterke relaties met klanten en leveranciers.",
+      "CardTitle4": "Toegankelijkheid",
+      "CardText4": "Peppol maakt eenvoudig verzenden en ontvangen van e-facturen mogelijk voor bedrijven van elke omvang en sector, waardoor ze competitiever kunnen opereren."
+    },
+    "Cta": {
+      "Title": "Ontdek hoe Peppol uw onderneming kan optimaliseren.",
+      "Button": "Boek een afspraak"
+    }
+  },
+  "Contact": {
+    "Title": "Neem contact op",
+    "Subtitle": "Heb je een technisch probleem? Wil je feedback geven? Heb je details nodig over de werking van Peppol? Laat het ons weten",
+    "Email": "Jouw e-mail",
+    "PlaceholderEmail": "naam@mail.com",
+    "Bedrijfsnaam": "Bedrijfsnaam",
+    "PlaceholderBedrijfsnaam": "(optioneel)",
+    "Telefoonnummer": "Telefoonnummer",
+    "PlaceholderTelefoonnummer": "(optioneel)",
+    "Onderwerp": "Onderwerp", 
+    "PlaceholderOnderwerp": "Laat ons weten waarover het gaat", 
+    "Bericht": "Stel je vraag",
+    "FormSubmitted":"Je bericht is verzonden",
+    "PlaceholderBericht": "Laat een bericht achter...",
+    "Button": "Verstuur bericht",
+    "InvalidEmail": "E-mailadres is ongeldig",
+    "FAQ": {
+      "Title": "Veelgestelde vragen",
+      "Subtitle": "Hier zijn enkele van onze veelgestelde vragen. Als je nog andere vragen hebt die je beantwoord wilt hebben, neem dan gerust contact met ons op.",
+      "faq": {
+        "what": {
+          "question": "Wat is Peppol?",
+          "answer": "Peppol laat toe om op een gestructureerde manier elektronische documenten, zoals facturen, te versturen. Het is een veilig netwerk dat toelaat om e-facturen of e-invoices uit te wisselen met iedereen die geregistreerd is op dit netwerk. Peppol (Pan-European Public Procurement Online) wordt in België voor elke onderneming verplicht vanaf 1 januari 2026."
+        },
+        "who":{
+          "question": "Voor wie?",
+          "answer": "Peppol wordt wereldwijd gebruikt als een standaard voor digitale e-facturatie. In België wordt de verplichting om Peppol te gebruiken bij het ontvangen en versturen van facturen ingevoerd vanaf 1 januari 2026 en dit voor elk bedrijf of organisatie."
+        },
+        "invoice":{
+          "question": "Wat is een digitale elektronische factuur?",
+          "answer": "Via het Peppol-netwerk worden e-facturen of e-invoices verstuurd. Dit gaat verder dan een factuur digitaal in pdf versturen. Via Peppol worden facturen en factuurgegevens immers verstuurd volgens UBL-standaarden (een internationale standaard). Hierdoor kunnen facturen overal ter wereld correct uitgelezen en verwerkt worden. De digitale pdf-factuur wordt met andere woorden vervangen door de elektronische factuur."
+        }
+      }
+    }
+  },
+  "Blog": {
+    "Title": "Blog",
+    "Subtitle": "Ontdek onze",
+    "Intro": "Ontdek de laatste trends, tips en nieuws over elektronische facturatie, Peppol en de digitalisering van bedrijfsprocessen op onze blog. Of je nu een bedrijfseigenaar bent die de efficiëntie van facturatie wil verbeteren, een accountant op zoek naar nieuwe mogelijkheden, of gewoon geïnteresseerd bent in de toekomst van zakelijke communicatie, onze blog heeft voor elk wat wils.",
+    "Cat": "Alle",
+    "Cat1": "Boekhouders",
+    "Cat2": "Ondernemers",
+    "Cat3": "Peppol",
+    "ReadMore": "Lees meer",
+    "Questions": "Heb je vragen over deze verplichte elektronische facturatie? Neem dan contact op met één van onze specialisten via",
+    "Back": "Terug naar overzicht",
+    "About": "Artikel over",
+    "All": "Alle"
+  },
+  "Cookies":{
+    "PrivacySubtitle": "Privacyverklaring",
+    "PrivacyTitle": "Cookies & Privacy",
+    "PrivacyStatement": "Privacyverklaring",
+    "GeneralTerms": "Algemene bepalingen",
+    "GeneralTermsContent": "Qastan hecht groot belang aan de privacy van haar klanten, lead en prospecten alsook websitebezoekers. Hierbij streven we steeds naar een veilige en voor u transparante verwerking van (persoons)gegevens conform de geldende wetgeving. Persoonsgegevens worden zo met de grootste zorg behandeld. Met deze privacyverklaring wordt aangegeven welke informatie wij verzamelen, waar deze voor gebruikt wordt en hoe deze eventueel gedeeld wordt. Tevens kunt u hieronder eveneens de nodige informatie omtrent uw rechten en de uitoefening ervan terugvinden.",
+    "Questions": "Vragen",
+    "QuestionsContent": "Indien u meer informatie wenst te ontvangen, of vragen hebt omtrent deze privacyverklaring, aarzel dan in geen geval om ons te contacteren op",
+    "DataProcessing": "Verwerking van gegevens en data",
+    "DataProcessingContent1": "Alle gegevens zullen steeds conform de actuele wettelijke principes verzameld, verwerkt of bewaard worden. Hierbij zullen enkel de gegevens – nodig voor de huidige bedrijfsvoering – gebruikt worden. Het gaat hier in de eerste plaats om natuurlijke personen:",
+    "DataProcessingList1": "klanten en hun medewerkers",
+    "DataProcessingList2": "leveranciers",
+    "DataProcessingList3": "gebruikers",
+    "DataProcessingList4": "rechtstreekse of onrechtstreekse contractpersonen",
+    "DataProcessingList5": "leads",
+    "DataProcessingList6": "prospecten",
+    "DataProcessingContent2": "Volgende gegevens worden verzameld:",
+    "DataProcessingList7": "Identificatiegegevens: gebruikt om contact op te nemen en betrokkenen te identificeren (bijvoorbeeld als gebruiker van onze software). Het wordt ook gebruikt om klanten te beheren, relaties te onderhouden en andere administratieve taken uit te voeren die nodig zijn voor ons bedrijf.",
+    "DataProcessingList8": "Gegevens van natuurlijke personen als naam, emailadres, gsm-nummers",
+    "DataProcessingList9": "Professionele kwalificaties in het kader van een sollicitatie zoals getuigschriften, diploma’s,…",
+    "DataProcessingList10": "Financiële en boekhoudkundige gegevens: Hierbij gaat het vooral om bankrekeningnummers, BTW-nummers,… die nodig zijn om ene correcte en efficiënte betaling van/aan medewerkers, klanten en leveranciers op te volgen.",
+    "DataProcessingList11": "Commerciële gegevens: Hierbij gaat het in de eerste plaats om het bijhouden van historische data zoals orders, opdrachten, projecten, historiek van bestellingen,…",
+    "DataProcessingContent3": "Zoals hierboven beschreven worden deze gegevens enkel verwerkt/bijgehouden in het kader van de eigen bedrijfsvoering, om een efficiënte dienstverlening mogelijk te maken of conform de wettelijke verplichting om bepaalde gegevens bij te houden. Data en gegevens van onze klanten, die voortvloeien uit een opdracht (vb. datascanning van verzekeringspolissen, bewaren van facturen, etc) en die aan ons toevertrouwd worden, worden uitsluitend gebruikt voor de door u duidelijk omschreven opdracht. Deze gegeven worden nooit voor een ander doel (vb. commercieel) ingezet en worden na afloop van de opdracht onmiddellijk vernietigd, dit zowel digitaal als op papier waarbij geen lokale kopieën door ons bewaard worden. Verstrekken van gegevens aan derden, vindt enkel plaats indien dit nodig is voor de uitvoering van de overeenkomst tussen FIT BV en de eindklant. De gegevens worden in dit geval enkel gebruikt om de opdracht uit te voeren en komen in geen geval in aanmerking om te gebruiken voor andere doeleinden.",
+    "RetentionPeriod": "Bewaartermijn",
+    "RetentionPeriodContent": "Alle verzamelde persoonsgegevens worden niet langer bewaard dan noodzakelijk voor de doeleinden – zoals beschreven in deze privacyverklaring - waarvoor ze in oorsprong verzameld werden.",
+    "Security": "Veiligheid",
+    "SecurityContent1": "Qastan verbindt zich ertoe om naar best vermogen alle redelijke maatregelen te nemen ter bescherming van uw persoonsgegevens en deze principes ook in haar bedrijfsvoering te waarborgen. Alle gegevens worden bijgehouden in databanken die zich op servers bevinden in België of bij uitbreiding binnen de Europese Unie.",
+    "SecurityContent2": "Er worden passende technische en organisatorische maatregelen gebruikt om misbruik, verlies of onbevoegde toegang tegen te gaan.",
+    "SecurityContent3": "Er worden periodieke controles uitgevoerd om de beveiliging te testen en waar nodig bij te werken. Tijdens of na de uitvoering van een opdracht kunnen klanten tevens altijd navragen hoe hun gegevens of data verwerkt wordt binnen Qastan en wie hierbij toegang heeft.",
+    "Rights": "Rechten",
+    "RightsContent": "Recht van toegang en inzage: u heeft ten allen tijde het recht om kosteloos toegang te verkrijgen tot uw persoonlijke gegevens en eventuele foutieve gegevens te corrigeren en bij te werken. Recht van verwijdering: u heeft ten allen tijde het recht om ons te verzoeken uw persoonsgegevens te verwijderen. Recht van bezwaar: u heeft het recht om bezwaar te maken tegen de verwerking van uw persoonsgegevens.",
+    "Complaints": "Klachten",
+    "ComplaintsContent": "Indien u klachten hebt over de manier waarop wij uw gegevens verwerken, dan kan u steeds contact opnemen met de Gegevensbeschermingsautoriteit. Meer informatie hierover kan u vinden op https://www.gegevensbeschermingsautoriteit.be/",
+    "CookiesGDPR": "Cookies & GDPR",
+    "CookiesGeneralTerms": "Algemene voorwaarden inzake cookies",
+    "CookiesGeneralTermsContent": "De website maakt gebruik van cookies om u de best mogelijke ervaring te bieden. Door verder te gaan met uw bezoek aan onze website, gaat u akkoord met het gebruik van cookies.",
+    "WhatAreCookies": "Wat zijn cookies?",
+    "WhatAreCookiesContent": "Cookies zijn kleine tekstbestanden die door websites worden gebruikt om de gebruikerservaring efficiënter te maken. Door wetgeving worden we toegestaan cookies op uw apparaat op te slaan als deze strikt noodzakelijk zijn voor het gebruik van de site. Voor alle andere soorten cookies hebben we uw toestemming nodig.",
+    "FunctionalCookies": "Functionele cookies",
+    "FunctionalCookiesContent": "Deze cookies zijn nodig voor de basisfunctionaliteit van de website en worden daarom altijd ingeschakeld. Hieronder vallen cookies die ervoor zorgen dat u kunt navigeren op de website en gebruik kunt maken van de basisfuncties, zoals paginanavigatie en toegang tot beveiligde delen van de website.",
+    "AnalyticalCookies": "Analytische cookies",
+    "AnalyticalCookiesContent1": "Met analytische cookies kunnen we het gebruik van de website meten en analyseren, zodat we de prestaties kunnen verbeteren en de gebruikerservaring kunnen optimaliseren. We maken gebruik van Google Analytics om ons te helpen begrijpen hoe u omgaat met de website. Deze gegevens worden geanonimiseerd en kunnen niet worden gebruikt om u persoonlijk te identificeren.",
+    "AnalyticalCookiesList1": "Aantal bezoekers op de website",
+    "AnalyticalCookiesList2": "Pagina's die bezoekers bekijken",
+    "AnalyticalCookiesList3": "De tijd die wordt doorgebracht op elke pagina",
+    "AnalyticalCookiesList4": "De volgorde van de pagina's die bezoekers bekijken",
+    "AnalyticalCookiesList5": "Welke inhoud bezoekers bekijken",
+    "AnalyticalCookiesList6": "Waar bezoekers vandaan komen (bijv. welke zoekmachine)",
+    "AnalyticalCookiesContent2": "Deze informatie helpt ons om te begrijpen hoe bezoekers de website gebruiken en om de website te verbeteren. Alle informatie die via deze cookies wordt verzameld, is geaggregeerd en daarom anoniem. Als u deze cookies niet toestaat, weten we niet wanneer u onze site heeft bezocht en kunnen we de prestaties van onze website niet volgen.",
+    "WebsitesAndCookies": "Websites en cookies",
+    "WebsitesAndCookiesContent": "Wanneer u onze website bezoekt, kunt u ook cookies van derden tegenkomen, zoals bijvoorbeeld cookies van Google. Deze cookies worden gebruikt voor het verzamelen van gegevens over hoe u omgaat met de inhoud van onze website. Door deze gegevens te verzamelen, kunnen we onze website verder optimaliseren en aanpassen aan de behoeften van onze gebruikers. Houd er rekening mee dat wij geen controle hebben over de informatie die wordt verzameld door deze cookies van derden.",
+    "ContactEmail": "info@qastan.be",
+    "Changes": "Wijzigingen in onze privacyverklaring",
+    "ChangesContent": "Alle wijzigingen in onze privacyverklaring worden op deze pagina gepubliceerd. De laatste wijziging gebeurde op 1 januari 2024.",
+    "QuestionsFooter": "Nog vragen?",
+    "QuestionsFooterContent": "Als u nog vragen hebt over onze privacyverklaring of de manier waarop wij uw gegevens gebruiken, neem dan gerust contact met ons op via"
+  },
+  "Voorwaarden":{
+    "algemeneVoorwaardenTitle": "Algemene voorwaarden",
+    "algemeneVoorwaardenHeader": "Algemene Voorwaarden",
+    "artikel1Title": "Artikel 1 - Algemene bepalingen",
+    "artikel1Content1": "1.1 Deze algemene voorwaarden zijn van toepassing op de levering van diensten alsook op de verkoop van goederen door Qastan, als commerciële naam voor FIT BV en al haar rechtsopvolgers...",
+    "artikel1Content2": "Bij afwezigheid van een speciale schriftelijke overeenkomst, en alleen in de mate van de daarin beschreven uitzondering, worden alle leveringen, aanbiedingen en overeenkomsten uitgevoerd volgens de hierna gemelde voorwaarden...",
+    "artikel1Content3": "1.2 De klant erkent door het plaatsen van een bestelling, het akkoord gaan met een offerte of akkoord voor uitvoering onvoorwaardelijk en onherroepelijk deze Algemene Voorwaarden...",
+    "artikel2Title": "Artikel 2 - Aanbiedingen en bestellingen",
+    "artikel2Content1": "2.1 Al onze prijzen zijn exclusief BTW en eventuele, in het kader van de overeenkomst te maken kosten, waaronder verzend- en administratiekosten...",
+    "artikel2Content2": "2.2 Voor zover evenwel, in de periode tussen offertes en aanvaarding, de prijzen van één of meerdere onderdelen door de leverancier van Qastan zouden worden verhoogd...",
+    "artikel2Content3": "2.3 Qastan houdt zich het recht voor de bestelde goederen in samenstelling en materiaalgebruik te wijzigen teneinde nuttige verbeteringen aan te brengen...",
+    "artikel3Title": "Artikel 3 - Leveringstermijnen",
+    "artikel3Content1": "3.1 Onze aanbiedingen worden gedaan zonder verbintenis wat de leverings- en uitvoeringsdata betreft, die steeds bij benadering worden opgegeven. Vertragingen wettigen geenszins het annuleren van de bestelling, de uitvoering, het verbreken van de overeenkomst, een prijsvermindering of enige eis tot schadevergoeding...",
+    "artikel4Title": "Artikel 4 - Betalingsvoorwaarden en eigendomsvoorbehoud",
+    "artikel4Content1": "4.1 Alle facturen zijn steeds betaalbaar op het adres van de maatschappelijke zetel, op vervaldag en op het rekeningnummer zoals vermeld op de factuur. Behoudens anders overeengekomen in de bijzondere voorwaarden, zijn facturen steeds betaalbaar op 30 dagen na factuurdatum...",
+    "artikel4Content2": "4.2 Iedere factuur die onbetaald blijft op de vastgestelde vervaldag wordt, van rechtswege en zonder ingebrekestelling, vermeerderd met een intrest van 1% per maand tot volledige betaling. De schadevergoeding ingevolge wanbetaling – in geval van niet-betaling op vervaldag - zal tevens verhoogd worden met een forfaitaire en onverminderde schadevergoeding van 15% en dit met een minimum van €100...",
+    "artikel4Content3": "4.3 Zolang de geleverde goederen niet volledig betaald zijn – eventueel verhoogd met de interesten en schadevergoeding - blijven zij eigendom van de Qastan. De risico’s, die de goederen kunnen lopen, vallen evenwel ten laste van de koper zodra deze ter zijnen beschikking worden gesteld...",
+    "artikel4Content4": "4.4 Elk bezwaar moet geschieden binnen de 8 dagen na factuurdatum per gemotiveerd schrijven. Bij gebrek aan bewaar binnen de gestelde termijn, wordt de factuur geacht te zijn aanvaard...",
+    "artikel4Content5": "4.5 Afhankelijk van de uit te voeren opdracht, kan voor de aanvang één of meerdere voorschotten gevraagd worden. Voorschotten worden na afloop van de opdracht steeds in mindering gebracht met de eindafrekening...",
+    "artikel5Title": "Artikel 5 - Geheimhouding en privacy",
+    "artikel5Content1": "5.1 De partijen zullen alle informatie – zowel mondeling als schriftelijk verkregen – en waarvan redelijkerwijze geacht wordt dat dit vertrouwelijk is, strikt vertrouwelijk behandelen...",
+    "artikel5Content2": "5.2 Persoonsgebonden data worden enkel voor contractuele, financiële of administratieve doeleinden gebruikt, allen in het kader van facturatie, financiële verwerking of opvolging...",
+    "artikel5Content3": "5.3 Behoudens uitdrukkelijks anders overeengekomen, behoudt Qastan zich het recht om de klant als referentie te gebruiken voor commerciële doeleinden...",
+    "artikel6Title": "Artikel 6 - Plichten van de klant",
+    "artikel6Content1": "6.1 De partijen stellen tijdig alle informatie en documenten, noodzakelijk voor de goede uitvoering van de opdracht, ter beschikking van Qastan...",
+    "artikel6Content2": "6.2 De klant zorgt er tevens voor dat zijn hardware voldoet aan alle minimumvereisten die nodig zijn voor de software-producten van Qastan. Bij het nalaten om de hardware en infrastructuur (incl. stabiel netwerk) aan te passen aan de minimumvereisten, kan Qastan niet aansprakelijk noch verantwoordelijk gesteld worden voor eventuele gebreken...",
+    "artikel7Title": "Artikel 7 - Aansprakelijkheid",
+    "artikel7Content1": "7.1 Qastan is niet gehouden en kan niet aansprakelijk gesteld worden voor contractuele verplichtingen waarvan de uitvoering door overmacht onmogelijk geworden is...",
+    "artikel7Content2": "7.2 In geen geval kan Qastan aansprakelijk gesteld worden voor indirecte schade, daaronder begrepen gevolgschade, gederfde winst, gemiste besparingen en schade door bedrijfsstagnatie of verlies van gegevens...",
+    "artikel8Title": "Artikel 8 - Software",
+    "artikel8Content1": "8.1 Onverminderd alle andere bepalingen, hetzij algemene, hetzij bijzondere, gelden de hier navolgende voorwaarden terzake van levering van software, voor zover zij van de voormelde voorwaarden afwijken...",
+    "artikel8Content2": "8.2 Software door Qastan ontwikkeld, geniet een waarborgperiode van 2 maanden, binnen welke periode gebeurlijke programmatiefouten, met uitsluiting van fouten in analyse of in prestaties...",
+    "artikel8Content3": "8.3 Buiten de voormelde periode worden de herstellings- of verbeteringskosten, zonder voorafgaandelijke bijkomende overeenkomst, op basis van prijs in regie aangerekend...",
+    "artikel8Content4": "8.4 Verzoeken die niet in de offerte of bijgevoegde technische beschrijving opgenomen werden, worden als aanvullend verzoek gezien en zullen op basis van onze geldende uurprijs extra aangerekend worden...",
+    "artikel9Title": "Artikel 9 - Betwistingen en ontbinding",
+    "artikel9Content1": "9.1 Wanneer de klant nalaat om een verbintenis uit te voeren, heeft Qastan het recht om ofwel de gedwongen uitvoering te eisen met toepassingen van huidige algemene voorwaarden...",
+    "artikel9Content2": "9.2 Op al onze contracten leveringen en werken, is enkel het Belgisch recht van toepassing. Alle betwistingen vallen onder de uitsluitende bevoegdheid van de rechtbanken van het arrondissement Kortrijk..."
+  
+  }     
+}

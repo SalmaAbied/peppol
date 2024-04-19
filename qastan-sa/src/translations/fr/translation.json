@@ -1,0 +1,289 @@
+{
+    "Home":{
+        "Navbar": { 
+            "Boekhouders": "Comptables",
+            "Ondernemers": "Entrepreneurs",
+            "Contact": "Contact",
+            "Blog": "Blog"
+        },
+        "Hero": {
+            "Title": "Simplifiez votre facturation avec",
+            "Subtitle": "Découvrez comment Peppol peut aider votre entreprise à envoyer et recevoir efficacement des factures électroniques, tout en respectant la nouvelle législation.",
+            "Registreer": "Inscrivez-vous maintenant"
+        },
+        "Intro": {
+            "Title": "Qu'est-ce que Peppol ?",
+            "Subtitle": "Peppol permet d'envoyer des documents électroniques, tels que des factures, de manière structurée. Il s'agit d'un réseau sécurisé qui permet d'échanger des factures électroniques avec toute personne inscrite sur ce réseau. Peppol (Pan-European Public Procurement Online) deviendra obligatoire en Belgique pour toutes les entreprises à partir du 1er janvier 2026.",
+            "Video": "Bg5TgdbhYZQ"
+        },
+        "More": {
+            "Subtitle": "Tout savoir sur Peppol",
+            "Title": "Découvrez Peppol",
+            "CardTitleB": "Comptables",
+            "CardSubtitleB": "Découvrez Peppol pour les professionnels du secteur financier",
+            "CardButtonB": "Pour les comptables",
+            "CardTitleO": "Entrepreneurs",
+            "CardSubtitleO": "Pour les entrepreneurs à la recherche d'opportunités de croissance commerciale",
+            "CardButtonO": "Pour les entrepreneurs",
+            "CardTitleBlog": "Blog",
+            "CardSubtitleBlog": "Lisez les derniers articles et analyses sur Peppol",
+            "CardButtonBlog": "Découvrez notre blog"
+        },
+        "Cards": {
+            "Title": "Quels sont les avantages de",
+            "CardTitle1": "Sécurité",
+            "CardText1": "Accent fort sur la sécurité et la protection des données. La communication chiffrée et la vérification de l'identité préviennent la fraude à la facture. Les pistes de vérification conservent un suivi de toutes les transactions.",
+            "CardTitle2": "Standardisation",
+            "CardText2": "Favorise la standardisation dans les processus de facturation électronique. Simplifie l'échange de documents électroniques.",
+            "CardTitle3": "Automatisation",
+            "CardText3": "Automatise le processus de facturation, réduit les manipulations manuelles et les erreurs, accélère le temps de traitement et associe les paiements directement aux factures.",
+            "CardTitle4": "Simplicité",
+            "CardText4": "Les factures électroniques conformes à la norme UBL sont automatiquement lues correctement, ce qui rend la saisie manuelle inutile."
+        },
+        "Banner": {
+            "Badge": "À partir de 2026",
+            "Title": "Peppol devient <strong>obligatoire</strong> à partir du 1er janvier 2026",
+            "Introduction": "À partir du 1er janvier 2026, Peppol sera obligatoire pour toutes les entreprises en Belgique, tant pour la facturation B2B (business-to-business) que B2G (business-to-government). Cette obligation est une étape importante dans la numérisation des processus de facturation et vise à améliorer l'efficacité et à réduire la fraude.",
+            "Title1": "Qu'est-ce que cela signifie pour votre entreprise?",
+            "Paraghraphe1": "En prenant dès maintenant des mesures et en connectant votre entreprise au réseau Peppol, vous pouvez vous préparer à ce changement et vous assurer que vos processus de facturation continueront de fonctionner de manière transparente. De plus, l'adoption précoce de Peppol peut donner à votre entreprise un avantage concurrentiel et vous aider à vous conformer aux réglementations de plus en plus strictes en matière de facturation et de protection des données.",
+            "Title2": "Pourquoi choisir Peppol?",
+            "Paraghraphe2": "Peppol offre non seulement efficacité et précision dans les processus de facturation, mais il permet également à votre entreprise de se préparer aux changements futurs dans le paysage de la facturation. En faisant la transition vers Peppol dès aujourd'hui, vous pouvez positionner votre entreprise pour une croissance et un avantage concurrentiel à long terme.",
+            "Title3": "Profitez de Peppol dès aujourd'hui!",
+            "Paraghraphe3": "Chez Peppol, nous comprenons que ces changements peuvent être importants, c'est pourquoi nous sommes prêts à vous accompagner dans la mise en œuvre de Peppol dans votre entreprise. Notre équipe d'experts peut vous conseiller et vous soutenir à chaque étape du processus, afin que vous soyez prêt pour l'avenir de la facturation. N'attendez pas qu'il soit trop tard. Contactez-nous dès aujourd'hui et laissez-nous vous aider dans la transition vers Peppol.",
+            "ReadMore": "En savoir plus",
+            "ReadLess": "Afficher moins"
+        },
+        "Footer": { 
+            "Title": "Pages",
+            "Boekhouders": "Comptables",
+            "Ondernemers": "Entrepreneurs",
+            "Contact": "Contact",
+            "Blog": "Blog",
+            "Voorwaarden": "Conditions générales"
+        }
+    },
+    "Boekhouders": {
+        "Header": {
+            "Title": "Transformez votre cabinet comptable avec Peppol",
+            "Subtitle": "Processus de facturation améliorés pour une comptabilité optimale"            
+        },
+        "StepByStepB":{
+            "Title": "Comptables et experts-comptables",
+            "Subtitle": "Peppol pour",
+            "Title2": "Comment Peppol fonctionne pour les cabinets comptables et les comptables",
+            "Subtitle2": "Peppol offre aux cabinets comptables et aux comptables une solution rationalisée et efficace pour la gestion de la facturation électronique. Voici quelques façons spécifiques dont les cabinets comptables et les comptables peuvent utiliser Peppol:",
+            "CardTitle1": "Envoyer et recevoir des factures électroniques",
+            "CardSubtitle1": "Les cabinets comptables peuvent facilement envoyer des factures électroniques à leurs clients et les recevoir également de leurs fournisseurs via le réseau Peppol. Cela réduit la dépendance aux factures papier et augmente la vitesse et la précision du processus de facturation.",
+            "CardTitle2": "Intégration avec les logiciels de comptabilité existants",
+            "CardSubtitle2": "Peppol peut être intégré de manière transparente avec les logiciels de comptabilité existants utilisés par les cabinets comptables et les comptables. Cela facilite l'intégration de Peppol dans les flux de travail et les processus existants, permettant une transition en douceur sans interruption des activités quotidiennes.",
+            "CardTitle3": "Automatisation des processus de facturation",
+            "CardSubtitle3": "En utilisant Peppol, les cabinets comptables et les comptables peuvent automatiser leurs processus de facturation. Cela inclut la génération, l'envoi, la réception et le traitement des factures, réduisant ainsi les tâches manuelles et minimisant les erreurs.",
+            "CardTitle4": "Efficacité accrue et économies de coûts",
+            "CardSubtitle4": "L'utilisation de Peppol entraîne une efficacité accrue pour les cabinets comptables et les comptables, leur permettant d'économiser du temps et des ressources. Cela peut entraîner des économies de coûts significatives à long terme et améliorer le service pour leurs clients."
+        },
+        "Cards":{
+            "Title": "Quels sont les avantages pour les <br/><strong>cabinets comptables et les comptables</strong>",
+            "CardTitle1": "Améliorations de l'efficacité",
+            "CardText1": "Peppol réduit les processus manuels en envoyant directement les factures électroniques, ce qui permet aux entreprises d'économiser du temps sur le traitement des documents papier et la saisie de données.",
+            "CardTitle2": "Économie de temps",
+            "CardText2": "Avec Peppol, les cabinets comptables et les comptables peuvent économiser considérablement de temps en automatisant les processus de facturation, ce qui leur permet d'avoir plus de temps pour d'autres tâches.",
+            "CardTitle3": "Précision",
+            "CardText3": "Peppol contribue à une plus grande précision en réduisant les erreurs humaines lors de la saisie manuelle, ce qui entraîne des processus de facturation fiables.",
+            "CardTitle4": "Satisfaction client",
+            "CardText4": "L'utilisation de Peppol permet des processus de facturation plus rapides et plus précis, ce qui se traduit par une satisfaction client accrue grâce à un service efficace."
+        },
+        "Cases":{
+            "Title": "Cas et histoires à succès",
+            "Subtitle": "Découvrez comment les comptables et les experts-comptables ont adopté Peppol: Études de cas et histoires à succès",
+            "CaseTitle1": "Cas 1",
+            "CaseName1": "Nom de l'entreprise",
+            "CaseBeroordeling1": "Lorem ipsum",
+            "CaseTitle2": "Cas 2",
+            "CaseName2": "Nom de l'entreprise",
+            "CaseBeroordeling2": "Lorem ipsum"        
+        },
+        "Cta":{
+            "Title": "Découvrez comment Peppol peut optimiser votre cabinet comptable.",
+            "Button": "Prenez rendez-vous"
+        }
+    },
+    "Ondernemers": {
+        "Header": {
+            "Title": "Peppol: Votre chemin vers une facturation efficace",
+            "Subtitle": "Découvrez les avantages pour votre entreprise"
+        },
+        "StepByStepB":{
+            "Title": "Entreprises",
+            "Subtitle": "Peppol pour les",
+            "Title2": "Comment Peppol fonctionne pour les entreprises",
+            "Subtitle2": "Peppol offre aux entreprises une solution simplifiée pour gérer leurs processus de facturation et échanger des documents électroniques. Voici quelques façons spécifiques dont les entreprises peuvent utiliser Peppol :",
+            "CardTitle1": "Envoi et réception de factures électroniques",
+            "CardSubtitle1": "Les entreprises peuvent facilement envoyer des factures électroniques à leurs clients et les recevoir également de leurs fournisseurs via le réseau Peppol. Cela élimine le besoin de factures papier et accélère le processus de facturation.",
+            "CardTitle2": "Intégration avec les systèmes existants",
+            "CardSubtitle2": "Peppol peut être intégré de manière transparente avec les systèmes et logiciels existants que les entreprises utilisent pour leurs processus de facturation. Cela facilite la mise en œuvre de Peppol sans perturbations majeures dans les flux de travail existants.",
+            "CardTitle3": "Normalisation des processus",
+            "CardSubtitle3": "Peppol favorise la normalisation des processus de facturation en utilisant des normes communes pour la facturation électronique. Cela permet aux entreprises d'échanger facilement des documents électroniques avec leurs partenaires commerciaux, indépendamment des logiciels ou systèmes utilisés.",
+            "CardTitle4": "Sécurité et fiabilité",
+            "CardSubtitle4": "Le réseau Peppol offre un environnement sécurisé et fiable pour l'échange de documents électroniques. Toutes les communications au sein du réseau sont cryptées, garantissant la confidentialité et la sécurité des données des entreprises."
+        },
+        "Cards":{
+            "Title": "Quels sont les avantages pour<br/> <strong>les entreprises</strong>",
+            "CardTitle1": "Améliorations de l'efficacité",
+            "CardText1": "Peppol automatise le processus de facturation, réduit les tâches manuelles et accélère le temps de traitement.",
+            "CardTitle2": "Économies de coûts",
+            "CardText2": "Peppol réduit les charges administratives et minimise les erreurs, ce qui se traduit par des économies de coûts importantes.",
+            "CardTitle3": "Fiabilité",
+            "CardText3": "Avec Peppol, les entreprises disposent d'un environnement de facturation fiable et standardisé, garantissant des transactions précises et des relations solides avec les clients et les fournisseurs.",
+            "CardTitle4": "Accessibilité",
+            "CardText4": "Peppol permet l'envoi et la réception faciles de factures électroniques pour les entreprises de toutes tailles et de tous secteurs, leur permettant d'être plus compétitives."
+        },
+        "Cta":{
+            "Title": "Découvrez comment Peppol peut optimiser votre entreprise.",
+            "Button": "Prenez rendez-vous"
+        }
+    },
+    "Contact": {
+        "Title": "Contactez-nous",
+        "Subtitle": "Vous avez un problème technique ? Vous voulez donner votre avis ? Vous avez besoin de détails sur le fonctionnement de Peppol ? Faites-le nous savoir",
+        "Email": "Votre e-mail",
+        "PlaceholderEmail": "nom@mail.com",
+        "Bedrijfsnaam": "Nom de l'entreprise",
+        "PlaceholderBedrijfsnaam": "(optionnel)",
+        "Telefoonnummer": "Numéro de téléphone",
+        "PlaceholderTelefoonnummer": "(optionnel)",
+        "Onderwerp": "Le sujet",
+        "PlaceholderOnderwerp": "Faites-nous savoir de quoi il s'agit", 
+        "Bericht": "Posez votre question",
+        "FormSubmitted":"Votre message a été envoyé",
+        "PlaceholderBericht": "Laisser une note...",
+        "Button": "Envoyer le message",
+        "InvalidEmail": "L'adresse e-mail est invalide",
+        "FAQ": {
+        "Title": "Questions fréquemment posées",
+        "Subtitle": "Voici quelques-unes de nos questions fréquemment posées. Si vous avez d'autres questions auxquelles vous aimeriez avoir une réponse, n'hésitez pas à nous contacter.",
+        "faq": {
+            "what":{
+              "question": "Qu'est-ce que Peppol?",
+              "answer": "Peppol permet d'envoyer des documents électroniques, tels que des factures, de manière structurée. Il s'agit d'un réseau sécurisé permettant d'échanger des factures électroniques avec toute personne enregistrée sur ce réseau. Peppol (Pan-European Public Procurement Online) deviendra obligatoire pour toutes les entreprises en Belgique à partir du 1er janvier 2026."
+            },
+            "who":{
+              "question": "Pour qui?",
+              "answer": "Peppol est utilisé dans le monde entier comme norme pour la facturation électronique. En Belgique, l'obligation d'utiliser Peppol pour l'envoi et la réception des factures sera introduite à partir du 1er janvier 2026 pour toutes les entreprises ou organisations."
+            },
+            "invoice":{
+              "question": "Qu'est-ce qu'une facture électronique?",
+              "answer": "Via le réseau Peppol, des factures électroniques sont envoyées. Il ne s'agit pas seulement d'envoyer une facture numérique au format PDF. Grâce à Peppol, les factures et les données de facturation sont envoyées selon des normes UBL (une norme internationale). Cela permet de lire et de traiter correctement les factures partout dans le monde. La facture PDF numérique est donc remplacée par la facture électronique."
+            }
+        }
+        }
+    },
+    "Blog": {
+        "Title": "Blog",
+        "Subtitle": "Découvrez notre",
+        "Intro": "Découvrez les dernières tendances, astuces et actualités concernant la facturation électronique, Peppol et la numérisation des processus d'entreprise sur notre blog. Que vous soyez un chef d'entreprise cherchant à améliorer l'efficacité de la facturation, un comptable à la recherche de nouvelles opportunités ou simplement intéressé par l'avenir de la communication d'entreprise, notre blog a quelque chose à offrir à tout le monde.",
+        "Cat": "Tous",
+        "Cat1": "Comptables",
+        "Cat2": "Entrepreneurs",
+        "Cat3": "Peppol",
+        "ReadMore": "Lire plus",
+        "Questions": "Avez-vous des questions sur cette facturation électronique obligatoire ? Contactez l'un de nos spécialistes via",
+        "Back": "Retour à l'aperçu",
+        "About": "Article sur",
+        "All": "Tous"
+      },
+    "Cookies":{
+        "PrivacySubtitle": "Déclaration de confidentialité",
+    "PrivacyTitle": "Cookies et confidentialité",
+    "PrivacyStatement": "Déclaration de confidentialité",
+    "GeneralTerms": "Termes généraux",
+    "GeneralTermsContent": "Qastan attache une grande importance à la confidentialité de ses clients, prospects et visiteurs du site web. Nous nous efforçons toujours de garantir un traitement sûr et transparent de vos données personnelles conformément à la législation en vigueur. Les données personnelles sont traitées avec le plus grand soin. Cette déclaration de confidentialité indique les informations que nous collectons, leur utilisation et éventuellement leur partage. Vous trouverez également ci-dessous des informations sur vos droits et leur exercice.",
+    "Questions": "Questions",
+    "QuestionsContent": "Si vous souhaitez obtenir plus d'informations ou si vous avez des questions concernant cette déclaration de confidentialité, n'hésitez pas à nous contacter à l'adresse suivante",
+    "DataProcessing": "Traitement des données",
+    "DataProcessingContent1": "Toutes les données seront toujours collectées, traitées ou conservées conformément aux principes juridiques en vigueur. Seules les données nécessaires à l'exploitation commerciale actuelle seront utilisées. Il s'agit principalement de personnes naturelles :",
+    "DataProcessingList1": "clients et leurs employés",
+    "DataProcessingList2": "fournisseurs",
+    "DataProcessingList3": "utilisateurs",
+    "DataProcessingList4": "personnes physiques ou morales directes ou indirectes",
+    "DataProcessingList5": "leads",
+    "DataProcessingList6": "prospects",
+    "DataProcessingContent2": "Les données suivantes sont collectées :",
+    "DataProcessingList7": "Données d'identification : utilisées pour contacter et identifier les parties concernées (par exemple, en tant qu'utilisateur de notre logiciel). Elles sont également utilisées pour gérer les clients, entretenir des relations et effectuer d'autres tâches administratives nécessaires à notre entreprise.",
+    "DataProcessingList8": "Données personnelles telles que nom, adresse e-mail, numéros de téléphone",
+    "DataProcessingList9": "Qualifications professionnelles dans le cadre d'une candidature, telles que certificats, diplômes, etc.",
+    "DataProcessingList10": "Données financières et comptables : principalement des numéros de compte bancaire, des numéros de TVA, etc., nécessaires pour assurer un paiement correct et efficace aux employés, clients et fournisseurs.",
+    "DataProcessingList11": "Données commerciales : il s'agit principalement de la conservation de données historiques telles que les commandes, les missions, les projets, l'historique des commandes, etc.",
+    "DataProcessingContent3": "Comme décrit ci-dessus, ces données ne sont traitées / conservées que dans le cadre de notre propre exploitation commerciale, pour permettre une prestation de services efficace ou conformément à l'obligation légale de conserver certaines données. Les données de nos clients, découlant d'une mission (par exemple, la numérisation de polices d'assurance, la conservation de factures, etc.) et qui nous sont confiées, sont utilisées exclusivement pour la mission clairement définie par vous. Ces données ne sont jamais utilisées à d'autres fins (par exemple, commerciales) et sont détruites immédiatement après la fin de la mission, que ce soit numériquement ou sur papier, sans que nous conservions de copies locales. La communication de données à des tiers n'a lieu que si cela est nécessaire pour l'exécution du contrat entre FIT BV et le client final. Dans ce cas, les données ne sont utilisées que pour exécuter la mission et ne peuvent en aucun cas être utilisées à d'autres fins.",
+    "RetentionPeriod": "Période de conservation",
+    "RetentionPeriodContent": "Toutes les données personnelles collectées ne sont pas conservées plus longtemps que nécessaire pour les finalités décrites dans cette déclaration de confidentialité.",
+    "Security": "Sécurité",
+    "SecurityContent1": "Qastan s'engage à prendre toutes les mesures raisonnables pour protéger vos données personnelles et à garantir ces principes dans son fonctionnement. Toutes les données sont conservées dans des bases de données situées sur des serveurs en Belgique ou, par extension, dans l'Union européenne.",
+    "SecurityContent2": "Des mesures techniques et organisationnelles appropriées sont utilisées pour prévenir les abus, les pertes ou l'accès non autorisé.",
+    "SecurityContent3": "Des contrôles périodiques sont effectués pour tester la sécurité et la mettre à jour si nécessaire. Pendant ou après l'exécution d'une mission, les clients peuvent toujours demander comment leurs données sont traitées chez Qastan et qui y a accès.",
+    "Rights": "Droits",
+    "RightsContent": "Droit d'accès et de rectification : vous avez le droit d'accéder gratuitement à vos données personnelles à tout moment et de corriger les données erronées. Droit à l'effacement : vous avez le droit de nous demander de supprimer vos données personnelles à tout moment. Droit d'opposition : vous avez le droit de vous opposer au traitement de vos données personnelles.",
+    "Complaints": "Plaintes",
+    "ComplaintsContent": "Si vous avez des plaintes concernant la manière dont nous traitons vos données, vous pouvez toujours contacter l'Autorité de protection des données. Vous trouverez plus d'informations à ce sujet sur https://www.autoriteprotectiondonnees.be/",
+    "CookiesGDPR": "Cookies et RGPD",
+    "CookiesGeneralTerms": "Conditions générales relatives aux cookies",
+    "CookiesGeneralTermsContent": "Le site Web utilise des cookies pour vous offrir la meilleure expérience possible. En continuant à visiter notre site Web, vous acceptez l'utilisation de cookies.",
+    "WhatAreCookies": "Qu'est-ce que les cookies ?",
+    "WhatAreCookiesContent": "Les cookies sont de petits fichiers texte utilisés par les sites Web pour rendre l'expérience utilisateur plus efficace. Conformément à la législation, nous sommes autorisés à stocker des cookies sur votre appareil s'ils sont strictement nécessaires à l'utilisation du site. Pour tous les autres types de cookies, nous avons besoin de votre consentement.",
+    "FunctionalCookies": "Cookies fonctionnels",
+    "FunctionalCookiesContent": "Ces cookies sont nécessaires au fonctionnement de base du site Web et sont donc toujours activés. Ils comprennent les cookies qui permettent de naviguer sur le site Web et d'utiliser ses fonctionnalités de base, telles que la navigation entre les pages et l'accès aux zones sécurisées du site.",
+    "AnalyticalCookies": "Cookies analytiques",
+    "AnalyticalCookiesContent1": "Les cookies analytiques nous permettent de mesurer et d'analyser l'utilisation du site Web, afin d'en améliorer les performances et l'expérience utilisateur. Nous utilisons Google Analytics pour nous aider à comprendre comment vous interagissez avec le site Web. Ces données sont anonymisées et ne peuvent pas être utilisées pour vous identifier personnellement.",
+    "AnalyticalCookiesList1": "Nombre de visiteurs sur le site Web",
+    "AnalyticalCookiesList2": "Pages consultées par les visiteurs",
+    "AnalyticalCookiesList3": "Temps passé sur chaque page",
+    "AnalyticalCookiesList4": "Ordre des pages consultées par les visiteurs",
+    "AnalyticalCookiesList5": "Contenu consulté par les visiteurs",
+    "AnalyticalCookiesList6": "Origine des visiteurs (par exemple, quel moteur de recherche)",
+    "AnalyticalCookiesContent2": "Ces informations nous aident à comprendre comment les visiteurs utilisent le site Web et à l'améliorer. Toutes les informations collectées par le biais de ces cookies sont agrégées et donc anonymes. Si vous n'autorisez pas ces cookies, nous ne saurons pas quand vous avez visité notre site et nous ne pourrons pas suivre ses performances.",
+    "WebsitesAndCookies": "Sites Web et cookies tiers",
+    "WebsitesAndCookiesContent": "Lorsque vous visitez notre site Web, vous pouvez également rencontrer des cookies tiers, tels que des cookies Google. Ces cookies sont utilisés pour collecter des données sur la façon dont vous interagissez avec le contenu de notre site Web. En collectant ces données, nous pouvons optimiser et adapter notre site Web aux besoins de nos utilisateurs. Veuillez noter que nous n'avons aucun contrôle sur les informations collectées par ces cookies tiers.",
+    "ContactEmail": "info@qastan.be",
+    "Changes": "Modifications de notre déclaration de confidentialité",
+    "ChangesContent": "Toutes les modifications apportées à notre déclaration de confidentialité seront publiées sur cette page. La dernière modification a été apportée le 1er janvier 2024.",
+    "QuestionsFooter": "Des questions ?",
+    "QuestionsFooterContent": "Si vous avez des questions sur notre déclaration de confidentialité ou sur la manière dont nous utilisons vos données, n'hésitez pas à nous contacter à l'adresse suivante"
+    },
+    "Voorwaarden": {
+      "algemeneVoorwaardenTitle": "Conditions générales",
+      "algemeneVoorwaardenHeader": "Conditions Générales",
+      "artikel1Title": "Article 1 - Dispositions générales",
+      "artikel1Content1": "1.1 Ces conditions générales s'appliquent à la fourniture de services ainsi qu'à la vente de biens par Qastan, en tant que nom commercial de FIT BV et de tous ses ayants droit...",
+      "artikel1Content2": "En l'absence d'un accord écrit spécial, et uniquement dans la mesure de l'exception décrite dans celui-ci, toutes les livraisons, offres et accords sont exécutés selon les conditions ci-après...",
+      "artikel1Content3": "1.2 Le client reconnaît en passant commande, en acceptant un devis ou un accord pour l'exécution, de manière inconditionnelle et irrévocable, ces Conditions Générales...",
+      "artikel2Title": "Article 2 - Offres et commandes",
+      "artikel2Content1": "2.1 Tous nos prix sont hors TVA et tous frais éventuels, à engager dans le cadre de l'accord, y compris les frais d'expédition et d'administration...",
+      "artikel2Content2": "2.2 Toutefois, dans la période entre les devis et l'acceptation, si les prix de un ou plusieurs éléments étaient augmentés par le fournisseur de Qastan...",
+      "artikel2Content3": "2.3 Qastan se réserve le droit de modifier les biens commandés en composition et en matériaux afin d'apporter des améliorations utiles...",
+      "artikel3Title": "Article 3 - Délais de livraison",
+      "artikel3Content1": "3.1 Nos offres sont faites sans engagement quant aux dates de livraison et d'exécution, qui sont toujours données à titre indicatif. Les retards ne justifient en aucun cas l'annulation de la commande, de l'exécution, la rupture du contrat, une réduction de prix ou une demande d'indemnisation...",
+      "artikel4Title": "Article 4 - Conditions de paiement et réserve de propriété",
+      "artikel4Content1": "4.1 Toutes les factures sont toujours payables à l'adresse du siège social, à l'échéance et sur le numéro de compte tel qu'indiqué sur la facture. Sauf accord contraire dans les conditions particulières, les factures sont toujours payables 30 jours après la date de la facture...",
+      "artikel4Content2": "4.2 Toute facture impayée à la date d'échéance sera, de plein droit et sans mise en demeure, majorée d'un intérêt de 1% par mois jusqu'au paiement intégral. L'indemnité pour défaut de paiement - en cas de non-paiement à l'échéance - sera également majorée d'une indemnité forfaitaire et invariable de 15% avec un minimum de 100 €...",
+      "artikel4Content3": "4.3 Tant que les biens livrés ne sont pas entièrement payés - éventuellement augmentés des intérêts et de l'indemnité - ils restent la propriété de Qastan. Cependant, les risques que les biens peuvent encourir sont à la charge de l'acheteur dès leur mise à disposition...",
+      "artikel4Content4": "4.4 Toute réclamation doit être faite dans les 8 jours suivant la date de la facture par écrit motivé. À défaut de réclamation dans le délai imparti, la facture est réputée acceptée...",
+      "artikel4Content5": "4.5 Selon la mission à exécuter, un ou plusieurs acomptes peuvent être demandés avant le début des travaux. Les acomptes sont toujours déduits du solde final à la fin de la mission...",
+      "artikel5Title": "Article 5 - Confidentialité et vie privée",
+      "artikel5Content1": "5.1 Les parties traiteront comme strictement confidentielles toutes les informations - orales ou écrites - raisonnablement réputées confidentielles...",
+      "artikel5Content2": "5.2 Les données personnelles ne seront utilisées que pour des fins contractuelles, financières ou administratives, dans le cadre de la facturation, du traitement financier ou du suivi...",
+      "artikel5Content3": "5.3 Sauf accord expressément contraire, Qastan se réserve le droit d'utiliser le client comme référence à des fins commerciales...",
+      "artikel6Title": "Article 6 - Obligations du client",
+      "artikel6Content1": "6.1 Les parties mettront à disposition de Qastan en temps utile toutes les informations et documents nécessaires à l'exécution correcte de la mission...",
+      "artikel6Content2": "6.2 Le client veillera également à ce que son matériel réponde à toutes les exigences minimales nécessaires aux produits logiciels de Qastan. En cas de négligence à adapter le matériel et l'infrastructure (y compris le réseau stable) aux exigences minimales, Qastan ne pourra être tenu responsable des éventuels défauts...",
+      "artikel7Title": "Article 7 - Responsabilité",
+      "artikel7Content1": "7.1 Qastan n'est pas tenue et ne peut être tenue responsable des obligations contractuelles dont l'exécution est devenue impossible en raison de force majeure...",
+      "artikel7Content2": "7.2 En aucun cas, Qastan ne pourra être tenue responsable des dommages indirects, y compris les dommages indirects, la perte de bénéfices, les économies manquées et les dommages résultant de l'interruption d'activité ou de la perte de données...",
+      "artikel8Title": "Article 8 - Logiciel",
+      "artikel8Content1": "8.1 Sous réserve de toutes autres dispositions, générales ou particulières, les conditions suivantes s'appliquent à la fourniture de logiciels, dans la mesure où elles diffèrent des conditions susmentionnées...",
+      "artikel8Content2": "8.2 Les logiciels développés par Qastan bénéficient d'une période de garantie de 2 mois, pendant laquelle les éventuels défauts de programme, à l'exclusion des erreurs d'analyse ou de performances...",
+      "artikel8Content3": "8.3 En dehors de la période susmentionnée, les coûts de réparation ou d'amélioration, sans accord préalable supplémentaire, seront facturés sur la base du prix régie...",
+      "artikel8Content4": "8.4 Les demandes non incluses dans l'offre ou dans la description technique jointe sont considérées comme des demandes supplémentaires et seront facturées en fonction de notre tarif horaire en vigueur...",
+      "artikel9Title": "Article 9 - Litiges et résiliation",
+      "artikel9Content1": "9.1 Lorsque le client omet d'exécuter une obligation, Qastan a le droit d'exiger l'exécution forcée conformément aux présentes conditions générales...",
+      "artikel9Content2": "9.2 Pour tous nos contrats de livraison et de travaux, seule la loi belge s'applique. Tous les litiges relèvent de la compétence exclusive des tribunaux de l'arrondissement de Courtrai..."
+  }
+}
