@@ -183,7 +183,6 @@
 //     },
 //   },
 // };
-
 export const blogPost:Blogpost[] = [
   {
     "id": 1,
