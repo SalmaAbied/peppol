@@ -2,7 +2,13 @@ import React, { useState, useEffect } from 'react';
 import { useLocation } from "react-router-dom";
 import { useTranslation } from 'react-i18next';
 import myImage from './img/qastanLettersWhiteLarge.png';
-
+import {
+  Select,
+  SelectContent,
+  SelectItem,
+  SelectTrigger,
+  SelectValue,
+} from "../components/shadcn/select"
 const NavBar: React.FC = () => {
   const [isOpen, setIsOpen] = useState(false);
   const location = useLocation();
