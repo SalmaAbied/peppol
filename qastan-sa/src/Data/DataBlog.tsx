@@ -20,7 +20,6 @@ export const blogPost:Blogpost[] = [
         {
           "title": "Waarom e-facturatie?",
           "content": "Op heden is digitaal factureren met Peppol enkel verplicht voor bedrijven die samenwerken met de Federale of Vlaamse Overheid. Vanaf 1 januari 2026 wordt deze verplichting om Peppol als standaard te gebruiken bij e-facturatie verder uitgerold in België. Hiermee volgt België de lijn die door de Europese Commissie werd uitgezet en reeds geïmplementeerd werd door verschillende EU-landen. Deze stap naar digitale facturatie is voor België belangrijk om de zogenaamde BTW-kloof, het verschil tussen wat de overheid moet ontvangen aan btw-inkomsten en wat de overheid daadwerkelijk ontvangt, verder te dichten.",
-          "image_id": 2
         },
         {
           "title": "Waaruit bestaat deze administratieve vereenvoudiging?",
@@ -28,7 +27,8 @@ export const blogPost:Blogpost[] = [
         },
         {
           "title": "Digitalisatie wordt de norm",
-          "content": "De keuze voor Peppol betekent meteen ook de keuze voor een volledig gedigitaliseerd facturatieproces. Tijdrovende handelingen zoals het manueel overtypen van facturen wordt volledig verledentijd. De keuze voor een betrouwbare partner die je kan begeleiden bij deze transitie en registreren bij een  Peppol Access Point wordt in die zin cruciaal. Het is van belang om hier niet al te lang mee te wachten en tijdig aan de slag te gaan. Hoewel dit een vrij technisch en complex gegeven is, neemt dit niet weg dat de implementatie en registratie op Peppol vrij vlot kan verlopen. Voor elk type onderneming bestaat een gepaste oplossing binnen elk budget."
+          "content": "De keuze voor Peppol betekent meteen ook de keuze voor een volledig gedigitaliseerd facturatieproces. Tijdrovende handelingen zoals het manueel overtypen van facturen wordt volledig verledentijd. De keuze voor een betrouwbare partner die je kan begeleiden bij deze transitie en registreren bij een  Peppol Access Point wordt in die zin cruciaal. Het is van belang om hier niet al te lang mee te wachten en tijdig aan de slag te gaan. Hoewel dit een vrij technisch en complex gegeven is, neemt dit niet weg dat de implementatie en registratie op Peppol vrij vlot kan verlopen. Voor elk type onderneming bestaat een gepaste oplossing binnen elk budget.",
+          "image_id": 2
         },
       ]
     },
@@ -52,7 +52,8 @@ export const blogPost:Blogpost[] = [
         },
         {
           "title": "La numérisation devient la norme",
-          "content": "Le choix de Peppol signifie également le choix d'un processus de facturation entièrement numérisé. Des tâches chronophages telles que la saisie manuelle des factures appartiennent désormais au passé. Le choix d'un partenaire fiable pour vous accompagner dans cette transition et vous inscrire à un Point d'Accès Peppol est crucial. Il est important de ne pas attendre trop longtemps et de commencer à agir rapidement. Bien que cela soit un sujet technique et complexe, la mise en œuvre et l'inscription à Peppol peuvent se faire assez facilement. Il existe une solution adaptée à chaque type d'entreprise, quel que soit le budget."
+          "content": "Le choix de Peppol signifie également le choix d'un processus de facturation entièrement numérisé. Des tâches chronophages telles que la saisie manuelle des factures appartiennent désormais au passé. Le choix d'un partenaire fiable pour vous accompagner dans cette transition et vous inscrire à un Point d'Accès Peppol est crucial. Il est important de ne pas attendre trop longtemps et de commencer à agir rapidement. Bien que cela soit un sujet technique et complexe, la mise en œuvre et l'inscription à Peppol peuvent se faire assez facilement. Il existe une solution adaptée à chaque type d'entreprise, quel que soit le budget.",
+          "image_id": 2
         }
       ]
     }

@@ -9,7 +9,12 @@ type Props = {
 
 function BlogArticle({ blog }: Props) {
   const { t, i18n } = useTranslation();
-  
+
+  const paragraphs = blog ? blog[i18n.language as Language].paragraph : [];
+  const halfLength = Math.ceil(paragraphs.length / 2);
+  const leftColumnParagraphs = paragraphs.slice(0, halfLength);
+  const rightColumnParagraphs = paragraphs.slice(halfLength);
+
   return (
     <>
       <div className="flex items-center justify-between mb-8 container">
@@ -18,21 +23,38 @@ function BlogArticle({ blog }: Props) {
           {t('Blog.Back')}
         </a>
       </div>
-      <div className="grid grid-cols-1 md:grid-cols-2 gap-6 container mb-20">
+      <div className={`grid md:grid-cols-${paragraphs.length < 2 ? '1' : '2'} gap-6 container mb-20`}>
         <div>
-          <h2 className="text-3xl md:text-4xl font-bold mb-2">{blog&&blog[i18n.language as Language].title}</h2>
-          <h3 className="text-sm md:text-base text-gray-500 uppercase mb-4">{t('Blog.About')} {blog&&blog[i18n.language as Language].subtitle}</h3>
+          <h2 className="text-3xl md:text-4xl font-bold mb-2">{blog && blog[i18n.language as Language].title}</h2>
+          <h3 className="text-sm md:text-base text-gray-500 uppercase mb-4">{t('Blog.About')} {blog && blog[i18n.language as Language].subtitle}</h3>
 
-          {blog && blog[i18n.language as Language].paragraph.map((paragraph, index)=>(
+          {leftColumnParagraphs.map((paragraph, index)=>(
             <div key={index}>
               <h4 className="font-semibold text-xl">{paragraph.title}</h4>
               <p className="text-base md:text-lg mb-4">{paragraph.content}</p>
-              <figure className="relative my-10">
-                <img className="w-full object-contain" src={blog.images[i18n.language as Language].find(img => img.image_id === paragraph.image_id)?.source} alt={paragraph.title}/>
-              </figure>
+              {paragraph.image_id && (
+                <figure className="relative my-10">
+                  <img className="w-full object-contain" src={blog && blog.images[i18n.language as Language].find(img => img.image_id === paragraph.image_id)?.source} alt={paragraph.title}/>
+                </figure>
+              )}
             </div>
           ))}
         </div>
+        {rightColumnParagraphs.length > 0 && (
+          <div>
+            {rightColumnParagraphs.map((paragraph, index)=>(
+              <div key={index}>
+                <h4 className="font-semibold text-xl">{paragraph.title}</h4>
+                <p className="text-base md:text-lg mb-4">{paragraph.content}</p>
+                {paragraph.image_id && (
+                  <figure className="relative my-10">
+                    <img className="w-full object-contain" src={blog && blog.images[i18n.language as Language].find(img => img.image_id === paragraph.image_id)?.source} alt={paragraph.title}/>
+                  </figure>
+                )}
+              </div>
+            ))}
+          </div>
+        )}
       </div>
       <div className='container mx-auto grid grid-cols-2'>
         <p className='italic'>
