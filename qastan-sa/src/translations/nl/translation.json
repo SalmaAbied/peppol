@@ -29,6 +29,9 @@
       "CardSubtitleBlog": "Lees de laatste artikelen en inzichten over Peppol",
       "CardButtonBlog": "Ontdek onze blog"
     },
+    "Slider":{
+        "Title": "Zij deden je het al voor"
+    },
     "Cards": {
       "Title": "Wat zijn de voordelen van",
       "CardTitle1": "Veiligheid",

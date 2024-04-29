@@ -11,7 +11,7 @@ function Boekhouders() {
       <HeaderWithText/>
       <StepByStepB/>
       <CardsB/>
-      <Cases/>
+      {/* <Cases/> */}
       <CtaBanner/>
     </div>
   )
