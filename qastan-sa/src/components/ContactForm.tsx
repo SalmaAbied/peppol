@@ -1,6 +1,7 @@
 import React, { useState } from 'react';
 import { useTranslation } from 'react-i18next';
-import { Linkedin, Phone, Mail } from 'lucide-react';
+import { Checkbox } from "../components/shadcn/Checkbox"
+import { Check } from 'lucide-react';
 
 const ContactPage: React.FC = () => {
   const { t } = useTranslation();
@@ -28,7 +29,6 @@ const ContactPage: React.FC = () => {
       alert('Vul alle verplichte velden correct in.');
     }
   };
-
   return (
     <>
       <section className="container mx-auto my-20">
@@ -102,9 +102,12 @@ const ContactPage: React.FC = () => {
                   maxLength={500} 
                   required
                 ></textarea>
+                 <Checkbox className='mt-10'/> {t('Contact.Checkbox')} <a href='/Cookies&Privacy' className='text-legoOrange font-bold'>{t('Contact.Privacy')}</a>.
               </div>
+             
               <button type="submit" className="mb-3 md:mt-0 mt-2 font-bold md:mr-0 mr-2 bg-legoOrange px-5 py-3 text-sm text-white hover:text-white hover:bg-legoOrange">{t('Contact.Button')}</button>
               {formSubmitted && <p className="text-green-500 text-sm">{t('Contact.FormSubmitted')}</p>}
+              
             </form>
           </div>
         </div>

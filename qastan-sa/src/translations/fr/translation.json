@@ -156,6 +156,8 @@
         "PlaceholderTelefoonnummer": "(optionnel)",
         "Onderwerp": "Le sujet",
         "PlaceholderOnderwerp": "Faites-nous savoir de quoi il s'agit", 
+        "Checkbox": "Je suis d'accord avec le",
+        "Privacy": "déclaration de confidentialité",    
         "Bericht": "Posez votre question",
         "FormSubmitted":"Votre message a été envoyé",
         "PlaceholderBericht": "Laisser une note...",
