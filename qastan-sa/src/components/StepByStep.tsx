@@ -10,7 +10,7 @@ const StepByStep = () => {
     <div id="timeline" className="bg-white pt-20 pb-10">
         <p className="text-md uppercase  text-center">{t('Ondernemers.StepByStepB.Subtitle')}</p>
         <h2 className=" text-4xl md:text-5xl font-bold text-center">{t('Ondernemers.StepByStepB.Title')}</h2>
-        <hr className="mx-auto w-12 h-1 outline-0 border-0 bg-legoLime block mt-4 mb-6" />
+        <hr className="mx-auto w-12 h-1 outline-0 border-0 bg-legoOrange block mt-4 mb-6" />
       <h1 className=" text-2xl text-center md:text-3xl font-bold mb-5 pt-10">{t('Ondernemers.StepByStepB.Title2')}</h1>
       <p className="text-center max-w-[1000px] mx-auto mb-10 container">
       {t('Ondernemers.StepByStepB.Subtitle2')}

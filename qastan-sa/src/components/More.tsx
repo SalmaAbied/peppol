@@ -8,7 +8,7 @@ function More() {
     <section className="container mx-auto">
       <p className="text-md uppercase  text-center">{t('Home.More.Subtitle')}</p>
       <h2 className="text-4xl md:text-5xl font-bold text-center">{t('Home.More.Title')}</h2>
-      <hr className="mx-auto w-12 h-1 outline-0 border-0 bg-legoLime block mt-4 mb-6" />
+      <hr className="mx-auto w-12 h-1 outline-0 border-0 bg-legoOrange block mt-4 mb-6" />
       <div className="gap-6 flex flex-wrap justify-center">
         <div className="relative bg-gray-800 overflow-hidden shadow-lg w-96 rounded-lg rounded-t-md border-t-4 border-legoOrange shadow-2xl">
           <div className="relative w-full h-96">

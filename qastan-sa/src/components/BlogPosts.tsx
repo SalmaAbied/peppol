@@ -34,7 +34,7 @@ const Blog: React.FC = () => {
       <div className='justify-center'>
         <p className="text-md uppercase  text-center">{t('Blog.Subtitle')}</p>
         <h2 className="text-4xl md:text-5xl font-bold text-center">{t('Blog.Title')}</h2>
-        <hr className="mx-auto w-12 h-1 outline-0 border-0 bg-legoLime block mt-4 mb-6" />
+        <hr className="mx-auto w-12 h-1 outline-0 border-0 bg-legoOrange block mt-4 mb-6" />
         <p className="text-center lg:text-lg max-w-3xl mx-auto mb-10">
           {t('Blog.Intro')}
         </p>

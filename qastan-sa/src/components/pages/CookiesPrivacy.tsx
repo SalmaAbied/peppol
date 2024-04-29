@@ -9,7 +9,7 @@ function CookiesPrivacy() {
       <div className='justify-center my-20'>
         <p className="text-md uppercase text-center">{t('Cookies.PrivacySubtitle')}</p>
         <h2 className="text-4xl md:text-5xl font-bold text-center">{t('Cookies.PrivacyTitle')}</h2>
-        <hr className="mx-auto w-12 h-1 outline-0 border-0 bg-legoAzure block mt-4 mb-6" />
+        <hr className="mx-auto w-12 h-1 outline-0 border-0 bg-legoOrange block mt-4 mb-6" />
       </div>
       <div className='container mx-auto mb-20'>
         <div>

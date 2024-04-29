@@ -8,7 +8,7 @@ function Voorwaarden() {
     <>
       <div className='justify-center my-20'>
         <h2 className="text-4xl md:text-5xl font-bold text-center">{t('Voorwaarden.algemeneVoorwaardenTitle')}</h2>
-        <hr className="mx-auto w-12 h-1 outline-0 border-0 bg-legoAzure block mt-4 mb-6" />
+        <hr className="mx-auto w-12 h-1 outline-0 border-0 bg-legoOrange block mt-4 mb-6" />
       </div>
       <div className='container mx-auto mb-20'>
         <div className='container mx-auto'>
@@ -89,7 +89,7 @@ export default Voorwaarden;
 //    <>
 //    <div className='justify-center my-20'>
 //       <h2 className="text-4xl md:text-5xl font-bold text-center">Algemene voorwaarden</h2>
-//       <hr className="mx-auto w-12 h-1 outline-0 border-0 bg-legoAzure block mt-4 mb-6" />
+//       <hr className="mx-auto w-12 h-1 outline-0 border-0 bg-legoOrange block mt-4 mb-6" />
 //     </div>
 //     <div className='container mx-auto mb-20'>
 //     <div className='container mx-auto'>

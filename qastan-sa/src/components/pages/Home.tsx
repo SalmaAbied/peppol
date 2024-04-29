@@ -4,6 +4,7 @@ import Cards from '../../components/Cards';
 import Banner from '../../components/Banner';
 import Hero from '../Hero';
 import More from '../More';
+import FAQ from '../FAQ';
 
 function Home() {
   return (
@@ -13,6 +14,7 @@ function Home() {
     <Intro/>
     <More/>
     <Cards/>
+    <FAQ />
     </div>
   )
 }
