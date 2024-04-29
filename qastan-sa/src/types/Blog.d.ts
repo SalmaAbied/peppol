@@ -28,8 +28,8 @@ interface BlogpostContent {
 }
 
 interface Paragraph {
-  title:    string;
-  content:  string;
+  title?:    string;
+  content?:  string;
   image_id?: number;
 }
 

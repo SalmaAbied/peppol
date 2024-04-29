@@ -57,6 +57,73 @@ export const blogPost:Blogpost[] = [
         }
       ]
     }
+  }, 
+  {
+    "id": 2,
+    "imageUrl": "https://images.unsplash.com/photo-1515378960530-7c0da6231fb1?q=80&w=2070&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+    "date_published": "2024-04-29",
+    "images": {
+      "nl": [{"image_id":1, "source":"https://cdn.qastan.be/tifogame/demo_111.jpg"}, {"image_id":2, "source":"https://cdn.qastan.be/tifogame/demo_122.jpg"}],
+      "fr": [{"image_id":1, "source":"https://cdn.qastan.be/tifogame/demo_111.jpg"}, {"image_id":2, "source":"https://cdn.qastan.be/tifogame/demo_122.jpg"}]
+    },
+    "category": 2,
+    "nl": {
+      "title": "Kleine vennootschappen: 120% fiscale aftrekbaarheid voor PEPPOL e-facturatiesoftware!",
+      "subtitle": "Peppol",
+      "paragraph": [
+        {
+          "title": "",
+          "content": "Vanaf 1 januari 2026 worden ook bedrijven in de B2B-sector verplicht om elektronisch te factureren via PEPPOL. Deze nieuwe verplichting brengt extra kosten met zich mee voor veel ondernemers. Om deze kosten te compenseren, heeft de Belgische Kamer een wetswijziging aangenomen die kleine vennootschappen fiscale voordelen biedt wanneer ze overstappen op e-facturatie met PEPPOL. Dit is het ideale moment om actie te ondernemen. Onze digitale experts hebben de belangrijkste informatie voor jou op een rijtje gezet.",
+          "image_id": 1
+        },
+        {
+          "title": "Vanaf 2026 is digitaal factureren via PEPPOL verplicht.",
+          "content": "Hoewel digitaal factureren via PEPPOL momenteel alleen verplicht is voor bedrijven die met de Federale of Vlaamse overheid werken, zal dit vanaf 1 januari 2026 ook gelden voor B2B-bedrijven, dankzij een akkoord van minister van Financiën Vincent Van Peteghem. Het lijkt misschien nog ver weg, maar onze digitale experts adviseren je om nu al actie te ondernemen en vooruit te plannen. Het proces van factureren wordt namelijk iets complexer dan simpelweg een Excel- of Word-bestand bijwerken. Om de overgang te vergemakkelijken, wordt tijdelijk een fiscaal voordeel geïntroduceerd, zoals geadviseerd door onze experts.",
+          "image_id": 1
+        },
+        {
+          "title": "120% fiscale aftrekbaarheid"
+        },
+        {
+          "title": "Voor welke kosten?",
+          "content": "Op heden is digitaal factureren met Peppol enkel verplicht voor bedrijven die samenwerken met de Federale of Vlaamse Overheid. Vanaf 1 januari 2026 wordt deze verplichting om Peppol als standaard te gebruiken bij e-facturatie verder uitgerold in België. Hiermee volgt België de lijn die door de Europese Commissie werd uitgezet en reeds geïmplementeerd werd door verschillende EU-landen. Deze stap naar digitale facturatie is voor België belangrijk om de zogenaamde BTW-kloof, het verschil tussen wat de overheid moet ontvangen aan btw-inkomsten en wat de overheid daadwerkelijk ontvangt, verder te dichten.",
+        },
+        {
+          "title": "Waaruit bestaat deze administratieve vereenvoudiging?",
+          "content": "Door het gebruik van één standaard tussen alle BTW-plichtigen (of ondernemingen en overheden), wordt de verwerking van digitale facturaten vereenvoudigd. Waar op heden heel wat stappen moeten doorlopen worden om de factuur op te maken, te versturen, eventueel opnieuw te digitaliseren en te archiveren, zal Peppol dit proces een stuk rechtlijniger maken. Zo zorgt Peppol voor een snel en veilige digitale uitwisseling van facturen (het zogenaamde Peppol Network). Elke onderneming sluit zich hiervoor aan bij een eigen gekozen Peppol-Access Point. Het Access Point verzorgt daarna de registratie op het Peppol-netwerken en de vlotte communicatie met het Access Point van de ontvangen van de factuur.",
+        },
+        {
+          "title": "Digitalisatie wordt de norm",
+          "content": "De keuze voor Peppol betekent meteen ook de keuze voor een volledig gedigitaliseerd facturatieproces. Tijdrovende handelingen zoals het manueel overtypen van facturen wordt volledig verledentijd. De keuze voor een betrouwbare partner die je kan begeleiden bij deze transitie en registreren bij een  Peppol Access Point wordt in die zin cruciaal. Het is van belang om hier niet al te lang mee te wachten en tijdig aan de slag te gaan. Hoewel dit een vrij technisch en complex gegeven is, neemt dit niet weg dat de implementatie en registratie op Peppol vrij vlot kan verlopen. Voor elk type onderneming bestaat een gepaste oplossing binnen elk budget.",
+          "image_id": 2
+        },
+      ]
+    },
+    "fr": {
+      "title": "La facturation électronique (Peppol) obligatoire en Belgique à partir de 2026",
+      "subtitle": "Peppol",
+      "paragraph": [
+        {
+          "title": "Qu'est-ce que la facturation électronique ?",
+          "content": "La facturation électronique va au-delà de l'envoi de factures au format PDF par e-mail. Lorsque nous parlons de facturation électronique, nous faisons référence en premier lieu à des factures électroniques structurées au format UBL selon la norme européenne Peppol. En d'autres termes, la facture est immédiatement reconnue et traitée par un logiciel ERP ou de comptabilité dans un format spécifique. Il est donc important d'adapter votre logiciel actuel pour permettre la facturation électronique.",
+          "image_id": 1
+        },
+        {
+          "title": "Pourquoi la facturation électronique ?",
+          "content": "À l'heure actuelle, la facturation électronique avec Peppol n'est obligatoire que pour les entreprises qui collaborent avec le gouvernement fédéral ou flamand. À partir du 1er janvier 2026, cette obligation d'utiliser Peppol comme norme pour la facturation électronique sera étendue en Belgique. Ainsi, la Belgique suit la ligne tracée par la Commission européenne et déjà mise en œuvre par différents pays de l'UE. Cette transition vers la facturation électronique est importante pour la Belgique afin de combler l'écart de TVA, c'est-à-dire la différence entre ce que le gouvernement devrait percevoir en termes de recettes de TVA et ce qu'il perçoit réellement.",
+          "image_id": 2
+        },
+        {
+          "title": "En quoi consiste cette simplification administrative ?",
+          "content": "En utilisant une norme unique entre tous les assujettis à la TVA (entreprises et administrations publiques), le traitement des factures électroniques est simplifié. Alors qu'actuellement, de nombreuses étapes doivent être franchies pour émettre, envoyer, éventuellement numériser à nouveau et archiver la facture, Peppol rendra ce processus beaucoup plus direct. Ainsi, Peppol permet un échange rapide et sécurisé de factures électroniques (le soi-disant réseau Peppol). Chaque entreprise adhère à un Point d'Accès Peppol choisi. Le Point d'Accès assure ensuite l'inscription sur le réseau Peppol et la communication fluide avec le Point d'Accès du destinataire de la facture."
+        },
+        {
+          "title": "La numérisation devient la norme",
+          "content": "Le choix de Peppol signifie également le choix d'un processus de facturation entièrement numérisé. Des tâches chronophages telles que la saisie manuelle des factures appartiennent désormais au passé. Le choix d'un partenaire fiable pour vous accompagner dans cette transition et vous inscrire à un Point d'Accès Peppol est crucial. Il est important de ne pas attendre trop longtemps et de commencer à agir rapidement. Bien que cela soit un sujet technique et complexe, la mise en œuvre et l'inscription à Peppol peuvent se faire assez facilement. Il existe une solution adaptée à chaque type d'entreprise, quel que soit le budget.",
+          "image_id": 2
+        }
+      ]
+    }
   }
 ]
 
