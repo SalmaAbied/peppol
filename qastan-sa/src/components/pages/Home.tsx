@@ -9,10 +9,10 @@ function Home() {
   return (
     <div>    
     <Hero/>
+    <Banner/>
     <Intro/>
     <More/>
     <Cards/>
-    <Banner/>
     </div>
   )
 }

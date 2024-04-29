@@ -38,7 +38,7 @@ const NavBar: React.FC = () => {
 
   return (
     <>
-    <nav className='bg-gray-800 shadow-lg sticky top-0 z-50'>
+    <nav className='bg-white text-gray-800 shadow-lg sticky top-0 z-50'>
       <div className="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8">
         <div className="flex justify-between h-16">
           <div className="flex">
@@ -50,49 +50,28 @@ const NavBar: React.FC = () => {
           </div>
           <div className="hidden md:block">
             <div className="ml-10 mt-3 flex items-baseline space-x-4">
-              <a href="/Boekhouders" className={`text-gray-300 ${isActive('/Boekhouders') ? 'text-legoOrange' : 'hover:text-legoOrange '} px-3 py-2 rounded-md text-sm font-medium uppercase transition duration-300 ease-in-out`}>{t('Home.Navbar.Boekhouders')}</a>
-              <a href="/Ondernemers" className={`text-gray-300 ${isActive('/Ondernemers') ? 'text-legoOrange' : 'hover:text-legoOrange'} px-3 py-2 rounded-md text-sm font-medium uppercase transition duration-300 ease-in-out`}>{t('Home.Navbar.Ondernemers')}</a>
-              <a href="/Contact" className={`text-gray-300 ${isActive('/Contact') ? 'text-legoOrange' : 'hover:text-legoOrange'} px-3 py-2 rounded-md text-sm font-medium uppercase transition duration-300 ease-in-out`}>{t('Home.Navbar.Contact')}</a>
-              <a href="/Blog" className={`text-gray-300 ${isActive('/Blog') || location.pathname.includes('/Blog/') ? 'text-legoOrange' : 'hover:text-legoOrange'} px-3 py-2 rounded-md text-sm font-medium uppercase transition duration-300 ease-in-out`}>{t('Home.Navbar.Blog')}</a>
+              <a href="/Boekhouders" className={`text-gray-800 ${isActive('/Boekhouders') ? 'text-legoOrange' : 'hover:text-legoOrange '} px-3 py-2 rounded-md text-sm font-medium uppercase transition duration-300 ease-in-out`}>{t('Home.Navbar.Boekhouders')}</a>
+              <a href="/Ondernemers" className={`text-gray-800 ${isActive('/Ondernemers') ? 'text-legoOrange' : 'hover:text-legoOrange'} px-3 py-2 rounded-md text-sm font-medium uppercase transition duration-300 ease-in-out`}>{t('Home.Navbar.Ondernemers')}</a>
+              <a href="/Contact" className={`text-gray-800 ${isActive('/Contact') ? 'text-legoOrange' : 'hover:text-legoOrange'} px-3 py-2 rounded-md text-sm font-medium uppercase transition duration-300 ease-in-out`}>{t('Home.Navbar.Contact')}</a>
+              <a href="/Blog" className={`text-gray-800 ${isActive('/Blog') || location.pathname.includes('/Blog/') ? 'text-legoOrange' : 'hover:text-legoOrange'} px-3 py-2 rounded-md text-sm font-medium uppercase transition duration-300 ease-in-out`}>{t('Home.Navbar.Blog')}</a>
+              {/* start changeLanguage */}
               <div className='flex'>
-                <p className={`font-bold ${i18n.language === 'nl' ? 'text-legoOrange' : 'text-white'}`} onClick={() => changeLanguage("nl")} style={{ cursor: 'pointer' }}>
+                <p className={`duration-300 hover:text-legoOrange font-bold ${i18n.language === 'nl' ? 'text-legoOrange' : 'text-gray-800'}`} onClick={() => changeLanguage("nl")} style={{ cursor: 'pointer' }}>
                   NL
                 </p>
-                <p className='mx-2 text-white font-bold'>|</p>
-                <p className={`font-bold ${i18n.language === 'fr' ? 'text-legoOrange' : 'text-white'}`} onClick={() => changeLanguage("fr")} style={{ cursor: 'pointer' }}>
+                <p className='mx-2 text-gray-800 font-bold'>|</p>
+                <p className={`duration-300 hover:text-legoOrange font-bold ${i18n.language === 'fr' ? 'text-legoOrange' : 'text-gray-800'}`} onClick={() => changeLanguage("fr")} style={{ cursor: 'pointer' }}>
                   FR
                 </p>
               </div>
-
-              {/* <Select value={i18n.language}>
-                <SelectTrigger className="w-[80px] border-none text-white bg-legoOrange">
-                  <SelectValue placeholder="Theme" />
-                </SelectTrigger>
-                <SelectContent className='w-[80px] bg-legoOrange border-none'>
-                  <SelectItem value="nl" onClick={() => changeLanguage('nl')}>
-                    NL
-                  </SelectItem>
-                  <SelectItem value="fr" onClick={() => changeLanguage('fr')}>
-                    FR
-                  </SelectItem>
-                </SelectContent>
-              </Select>
-              <select
-                className='bg-gray-800 text-white font-bold m-1 border border-gray-600 rounded px-2 py-1'
-                onChange={(e) => changeLanguage(e.target.value)}
-                value={i18n.language} 
-              >
-                <option value="nl">NL</option> 
-                <option value="fr">FR</option> 
-              </select> */}
-
+              {/* einde changeLanguage */}
             </div>
           </div>
           <div className="-mr-2 flex md:hidden">
             <button
                 onClick={toggleMenu}
                 type="button"
-                className="inline-flex items-center justify-center p-2 rounded-md text-gray-400 hover:text-legoOrange focus:outline-none focus:text-legoOrange focus:text-white transition duration-150 ease-in-out"
+                className="inline-flex items-center justify-center p-2 rounded-md text-gray-400 hover:text-legoOrange focus:outline-none focus:text-legoOrange focus:text-gray-800 transition duration-150 ease-in-out"
               >
                 <svg
                   className={`${isOpen ? 'hidden' : 'block'} h-8 w-8`}
@@ -124,13 +103,13 @@ const NavBar: React.FC = () => {
       </div>
       <div className={`${isOpen ? 'block' : 'hidden'} md:hidden`}>
         <div className="px-2 pt-2 pb-3 sm:px-3">
-          <a href="/Boekhouders" className={`block text-gray-300 ${isActive('/Boekhouders') ? 'text-legoOrange' : 'hover:text-legoOrange'} px-3 py-2 rounded-md text-base font-medium transition duration-300 ease-in-out`}>{t('Home.Navbar.Boekhouders')}</a>
-          <a href="/Ondernemers" className={`block text-gray-300 ${isActive('/Ondernemers') ? 'text-legoOrange' : 'hover:text-legoOrange'} px-3 py-2 rounded-md text-base font-medium transition duration-300 ease-in-out`}>{t('Home.Navbar.Ondernemers')}</a>
-          <a href="/Contact" className={`block text-gray-300 ${isActive('/Contact') ? 'text-legoOrange' : 'hover:text-legoOrange'} px-3 py-2 rounded-md text-base font-medium transition duration-300 ease-in-out`}>{t('Home.Navbar.Contact')}</a>
-          <a href="/Blog" className={`block text-gray-300 ${isActive('/Blog') || location.pathname.includes('/Blog/') ? 'text-legoOrange' : 'hover:text-legoOrange'} px-3 py-2 rounded-md text-base font-medium transition duration-300 ease-in-out`}>{t('Home.Navbar.Blog')}</a>
+          <a href="/Boekhouders" className={`block text-gray-800 ${isActive('/Boekhouders') ? 'text-legoOrange' : 'hover:text-legoOrange'} px-3 py-2 rounded-md text-base font-medium transition duration-300 ease-in-out`}>{t('Home.Navbar.Boekhouders')}</a>
+          <a href="/Ondernemers" className={`block text-gray-800 ${isActive('/Ondernemers') ? 'text-legoOrange' : 'hover:text-legoOrange'} px-3 py-2 rounded-md text-base font-medium transition duration-300 ease-in-out`}>{t('Home.Navbar.Ondernemers')}</a>
+          <a href="/Contact" className={`block text-gray-800 ${isActive('/Contact') ? 'text-legoOrange' : 'hover:text-legoOrange'} px-3 py-2 rounded-md text-base font-medium transition duration-300 ease-in-out`}>{t('Home.Navbar.Contact')}</a>
+          <a href="/Blog" className={`block text-gray-800 ${isActive('/Blog') || location.pathname.includes('/Blog/') ? 'text-legoOrange' : 'hover:text-legoOrange'} px-3 py-2 rounded-md text-base font-medium transition duration-300 ease-in-out`}>{t('Home.Navbar.Blog')}</a>
           
           <select
-            className='bg-gray-800 text-white font-bold m-1 border border-gray-600 rounded px-2 py-1'
+            className='bg-gray-800 text-gray-800 font-bold m-1 border border-gray-600 rounded px-2 py-1'
             onChange={(e) => changeLanguage(e.target.value)}
             value={i18n.language} 
           >

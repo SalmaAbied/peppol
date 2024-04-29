@@ -15,20 +15,19 @@ function Grid() {
           alt=""
           className="aspect-square object-cover"
         />
-        <span className="bg-legoAzure aspect-square"></span>
-
+        <span className="bg-white aspect-square"></span>
         <img
           src="https://images.unsplash.com/photo-1601342630314-8427c38bf5e6?q=80&w=1982&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D"
           alt=""
           className="aspect-square object-cover"
         />
-        <span className="bg-legoPurple aspect-square"></span>
+        <span className="bg-legoYellow aspect-square"></span>
         <img
           src="https://plus.unsplash.com/premium_photo-1661281337214-c5f344300d92?q=80&w=2071&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D"
           alt=""
           className="aspect-square object-cover"
         />
-        <span className="bg-legoPink aspect-square"></span>
+        <span className="bg-legoBlue aspect-square"></span>
       </div>
   )
 }
