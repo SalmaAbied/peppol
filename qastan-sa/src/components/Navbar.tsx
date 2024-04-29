@@ -54,15 +54,29 @@ const NavBar: React.FC = () => {
               <a href="/Ondernemers" className={`text-gray-300 ${isActive('/Ondernemers') ? 'text-legoOrange' : 'hover:text-legoOrange'} px-3 py-2 rounded-md text-sm font-medium uppercase transition duration-300 ease-in-out`}>{t('Home.Navbar.Ondernemers')}</a>
               <a href="/Contact" className={`text-gray-300 ${isActive('/Contact') ? 'text-legoOrange' : 'hover:text-legoOrange'} px-3 py-2 rounded-md text-sm font-medium uppercase transition duration-300 ease-in-out`}>{t('Home.Navbar.Contact')}</a>
               <a href="/Blog" className={`text-gray-300 ${isActive('/Blog') || location.pathname.includes('/Blog/') ? 'text-legoOrange' : 'hover:text-legoOrange'} px-3 py-2 rounded-md text-sm font-medium uppercase transition duration-300 ease-in-out`}>{t('Home.Navbar.Blog')}</a>
-              {/* <Select>
-                <SelectTrigger className="w-[180px] text-white">
+              <div className='flex'>
+                <p className={`font-bold ${i18n.language === 'nl' ? 'text-legoOrange' : 'text-white'}`} onClick={() => changeLanguage("nl")} style={{ cursor: 'pointer' }}>
+                  NL
+                </p>
+                <p className='mx-2 text-white font-bold'>|</p>
+                <p className={`font-bold ${i18n.language === 'fr' ? 'text-legoOrange' : 'text-white'}`} onClick={() => changeLanguage("fr")} style={{ cursor: 'pointer' }}>
+                  FR
+                </p>
+              </div>
+
+              {/* <Select value={i18n.language}>
+                <SelectTrigger className="w-[80px] border-none text-white bg-legoOrange">
                   <SelectValue placeholder="Theme" />
                 </SelectTrigger>
-                <SelectContent>
-                  <SelectItem value="nl" onClick={() => changeLanguage('nl')}>NL</SelectItem>
-                  <SelectItem value="fr" onClick={() => changeLanguage('fr')}>FR</SelectItem>
+                <SelectContent className='w-[80px] bg-legoOrange border-none'>
+                  <SelectItem value="nl" onClick={() => changeLanguage('nl')}>
+                    NL
+                  </SelectItem>
+                  <SelectItem value="fr" onClick={() => changeLanguage('fr')}>
+                    FR
+                  </SelectItem>
                 </SelectContent>
-              </Select> */}
+              </Select>
               <select
                 className='bg-gray-800 text-white font-bold m-1 border border-gray-600 rounded px-2 py-1'
                 onChange={(e) => changeLanguage(e.target.value)}
@@ -70,7 +84,7 @@ const NavBar: React.FC = () => {
               >
                 <option value="nl">NL</option> 
                 <option value="fr">FR</option> 
-              </select>
+              </select> */}
 
             </div>
           </div>
