@@ -29,10 +29,16 @@ interface BlogpostContent {
 
 interface Paragraph {
   title?:    string;
+  subtitle?: string;
   content?:  string;
   image_id?: number;
+  list?: List[];
 }
 
+interface List {
+  title?: string;
+  content?: string[];
+}
 interface Images {
   nl: ImageContent[];
   fr: ImageContent[];

@@ -14,7 +14,6 @@ function BlogArticle({ blog }: Props) {
   const halfLength = Math.ceil(paragraphs.length / 2);
   const leftColumnParagraphs = paragraphs.slice(0, halfLength);
   const rightColumnParagraphs = paragraphs.slice(halfLength);
-
   return (
     <>
       <div className="flex items-center justify-between mb-8 container">
@@ -25,7 +24,7 @@ function BlogArticle({ blog }: Props) {
       </div>
       <div className={`grid md:grid-cols-${paragraphs.length < 2 ? '1' : '2'} gap-6 container mb-20`}>
         <div>
-          <h2 className="text-3xl md:text-4xl font-bold mb-2">{blog && blog[i18n.language as Language].title}</h2>
+          <h2 className="text-lg md:text-3xl font-bold mb-2">{blog && blog[i18n.language as Language].title}</h2>
           <h3 className="text-sm md:text-base text-gray-500 uppercase mb-4">{t('Blog.About')} {blog && blog[i18n.language as Language].subtitle}</h3>
 
           {leftColumnParagraphs.map((paragraph, index)=>(
@@ -42,20 +41,42 @@ function BlogArticle({ blog }: Props) {
         </div>
         {rightColumnParagraphs.length > 0 && (
           <div>
-            {rightColumnParagraphs.map((paragraph, index)=>(
-              <div key={index}>
-                <h4 className="font-semibold text-xl">{paragraph.title}</h4>
-                <p className="text-base md:text-lg mb-4">{paragraph.content}</p>
-                {paragraph.image_id && (
-                  <figure className="relative my-10">
-                    <img className="w-full object-contain" src={blog && blog.images[i18n.language as Language].find(img => img.image_id === paragraph.image_id)?.source} alt={paragraph.title}/>
-                  </figure>
-                )}
-              </div>
-            ))}
-          </div>
+          {rightColumnParagraphs.map((paragraph, index)=>(
+            <div key={index}>
+              <h4 className="font-semibold text-xl">{paragraph.title}</h4>
+              <p className="text-base md:text-lg mb-4">{paragraph.content}</p>
+              {paragraph.image_id && (
+                <figure className="relative my-10">
+                  <img className="w-full object-contain" src={blog && blog.images[i18n.language as Language].find(img => img.image_id === paragraph.image_id)?.source} alt={paragraph.title}/>
+                </figure>
+              )}
+            {(paragraph.list && paragraph.list.length > 0) && (
+              <>
+                <h5 className='font-semibold'>{paragraph.subtitle}</h5>
+                <ul className='mb-10'>
+                  {paragraph.list.map((listItem, idx) => (
+                    <li key={idx}>
+                      {listItem.title && <h5 className='font-medium mb-3 mt-5'>{listItem.title}</h5>}
+                      {listItem.content && (
+                        <ul>
+                          {listItem.content.map((item, index) => (
+                            <li className='list-disc ml-10' key={index}>{item}</li>
+                          ))}
+                        </ul>
+                      )}
+                    </li>
+                  ))}
+                </ul>
+                </>
+              )}
+
+            </div>
+          ))}
+        </div>
+        
         )}
       </div>
+      
       <div className='container mx-auto grid grid-cols-2'>
         <p className='italic'>
           {t('Blog.Questions')}
