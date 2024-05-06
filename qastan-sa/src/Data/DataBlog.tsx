@@ -4,8 +4,8 @@ export const blogPost:Blogpost[] = [
     "imageUrl": "https://images.unsplash.com/photo-1587613864411-969e5288c708?q=80&w=1974&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
     "date_published": "2024-04-19",
     "images": {
-      "nl": [{"image_id":1, "source":"https://cdn.qastan.be/tifogame/demo_111.jpg"}, {"image_id":2, "source":"https://cdn.qastan.be/tifogame/demo_122.jpg"}],
-      "fr": [{"image_id":1, "source":"https://cdn.qastan.be/tifogame/demo_111.jpg"}, {"image_id":2, "source":"https://cdn.qastan.be/tifogame/demo_122.jpg"}]
+      "nl": [{"image_id":1, "source":"../components/img/blog/blogpost1.nl.png"}, {"image_id":2, "source":"../components/img/blog/blogpost1.1.nl.png"}],
+      "fr": [{"image_id":1, "source":"../components/img/blog/blogpost1.fr.png"}, {"image_id":2, "source":"../components/img/blog/blogpost1.1.fr.png"}]
     },
     "category": 1,
     "nl": {
